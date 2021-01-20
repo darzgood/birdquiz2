@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1 id="welcome">Welcome to the Bird Quiz!</h1>
+    <div id = "form_background" class="full">
+        <h3>About:</h3>
+    	<div id="infodiv"><p1 id="info">{{aboutText.split("\n")[0]}}<br><br>{{aboutText.split("\n")[1]}}<br><br>{{aboutText.split("\n")[2]}}</p1></div>
+    	<div id="infodiv"><p1 id = "info">This is a work in progress. If you find any bugs or have any suggestions please </p1>
+    	<a href = "http://birdquiz.craigood.com/contact">contact me!</a></div>
+    </div>
+	
+{% endblock %}

@@ -1,0 +1,150 @@
+{% extends "base.html" %}
+{% block content %}
+	<style>
+	#form_background {
+		padding: 20px;
+		}
+	</style>
+    <script>
+    function circleClicked(myCheckbox)
+    {
+        if(myCheckbox.checked==true)
+            myCheckbox.checked=false
+        else
+            myCheckbox.checked=true
+
+    }
+    </script>
+	<h1 id="welcome">Welcome to the Bird Quiz!</h1>
+	<div id = "form_background" class="full">
+		<form id ="setup" action="" method="post" name="setup">
+			{{form.hidden_tag() }}
+			<p>Please enter your name or a nickname.<br>
+				{{ form.username(type_= "text", size = 40, placeholder="Your name...", autofocus = True) }}<br>
+			{% for error in form.username.errors %}
+				<span style="color: red">[{{ error }}]</span>
+			{% endfor %}<br>
+			</p>
+			<p>Please enter the number of questions you would like to include in
+			the quiz<br>
+			{{form.numberOfQuestions(type_= "text", size = 10, placeholder="Number of questions...")}}<br>
+			{% for error in form.numberOfQuestions.errors %}
+				<span style="color: red">[{{ error }}]</span>
+			{% endfor %}<br>
+			</p>
+            
+            <p> Include birds from these regions: <br> <table><tr><td>
+                <div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1()}} 
+                <div class="state p-primary p-success">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Northwest</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td>
+                
+                <td><div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1()}} 
+                <div class="state p-primary p-success">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Great Plains</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td>
+                
+                <td><div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1()}} 
+                <div class="state p-primary p-success">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Northeast</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td> </tr>
+                
+                <tr><td><div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1()}} 
+                <div class="state p-primary p-success">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Southwest</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td>
+                
+                <td>
+                <div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1(defualt=False)}} 
+                <div class="state p-primary p-warning">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Include Rarities</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td>
+                
+                <td><div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1()}} 
+                <div class="state p-primary p-success">
+                        <!-- svg path -->
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label> Southeast</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td> </tr>
+                <!--
+                <tr><td>
+                <div class="pretty p-svg p-curve p-tada"> 
+                {{form.region1(defualt=False)}} 
+                <div class="state p-primary p-warning">
+                        <!-- svg path --
+                        <svg class="svg svg-icon" viewBox="0 0 20 20">
+                            <path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+                        </svg>
+                    <label>Include Rarities</label> </div>  </div>
+                {% for error in form.region1.errors %}
+                    <span style="color: red">[{{ error }}]</span>
+                {% endfor %}<br> </td> -->
+                
+                
+            </tr></table></p>
+	
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4603 2731" >
+                <image width="4603" height="2731" xlink:href="static/map.png">
+                </image>
+                <a onclick="circleClicked(northwest)">
+                    <rect x="0" y="0" fill="#fff" opacity="0" width="1500" height="1500" />
+                </a>
+                <a onclick="circleClicked(midwest)">
+                    <rect x="1500" y="0" fill="#fff" opacity="0" width="1500" height="1500" />
+                </a>
+                <a onclick="circleClicked(northeast)">
+                    <rect x="3000" y="0" fill="#fff" opacity="0" width="1603" height="1500" />
+                </a>
+                <a onclick="circleClicked(southwest)">
+                    <rect x="0" y="1500" fill="#fff" opacity="0" width="2500" height="1231" />
+                </a>
+                <a onclick="circleClicked(southeast)">
+                    <rect x="2500" y="1500" fill="#fff" opacity="0" width="2103" height="1231" />
+                </a>
+            </svg> </p>
+            
+			<p><input type = "submit" value = "Submit" onclick="this.disabled=true;this.value='Submitting, please wait...';this.form.submit();"></p>
+			
+		</form>
+	</div>
+{% endblock %}

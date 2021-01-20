@@ -1,0 +1,33 @@
+<html>
+  <style>
+  </style>
+  <head>
+    {% if title %}
+    <title>{{ title }} - Home</title>
+    {% else %}
+    <title>Welcome to the Bird Quiz</title>
+    {% endif %}
+    
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+  </head>
+  <body>
+  	<ul class="sidenav">
+  		<li><a class="active" href="/home">Home</a></li>
+  		<li><a href="/about">About</a></li>
+  		<li><a href="/contact">Contact</a></li>
+        <li><a href="/resources">Resources</a></li>
+  	</ul>
+  	<div id="wrapper">
+		{% block content %}{% endblock %}
+		{% with messages = get_flashed_messages() %}
+			{% if messages %}
+				<ul>
+				<p1>{{ messages[-1] }} </p1>
+				</ul>
+			{% endif %}
+		{% endwith %}
+	</div>
+	</hr>
+	<footer>Darrell Good: v1.1</footer>
+  </body>
+</html>

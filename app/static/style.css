@@ -1,0 +1,201 @@
+@import "pretty-checkbox.css";
+
+#welcome{text-align: center; margin: 0.25em 0;}
+p	{font: "Times New Roman"}
+a:visited{
+    color:purple;
+}
+/* #message    {
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+    } */
+
+#info	{text-align: center;
+    text-indent: 4em;
+	}
+#infodiv	{
+	margin: 1em 0em;
+	}
+/*img {display: block; width: 75%; margin: 0 auto}*/
+
+h3	{
+	margin: 0 0 0.5em
+	}
+
+#learn	{margin-top: 0em; margin-bottom: 0.5em; font-style: italic; text-align: center;}
+
+  footer{
+  	font: "Times New Roman"; 
+  	font-style: italic; 
+  	text-align: left;
+  	position:absolute;
+   	left:10px;
+   	bottom:.25em;
+   	height:1em;
+   	z-index: 3;
+   	}
+  ul    {text-align: center}
+  
+  ul.sidenav {
+	list-style-type: none;
+	margin: -1vh 0 0 0;
+	padding: 0;
+	width: 16vw;
+	background-color: #f1f1f1;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+	z-index: 2;
+	}
+
+  ul.sidenav li a {
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+	}
+ 
+  ul.sidenav li a.active {
+	background-color: #4CAF50;
+	color: white;
+	}
+
+  ul.sidenav li a:hover:not(.active) {
+	background-color: #555;
+	color: white;
+	}
+	
+  #wrapper{
+  	position:relative;
+	margin:0 auto;
+	left: 8vw;
+	z-index: 0;
+  }
+
+  @media screen and (orientation: portrait) {
+	ul.sidenav {
+		width: 100%;
+		height: auto;
+		position: relative;
+		margin: 0;
+		}
+	ul.sidenav li a {
+		float: left;
+		padding: 10px;
+		}
+	div.content {margin-left: 0;}
+	#wrapper{
+		left: 0;
+		}
+	}	
+  p1    {
+  	font: "Times New Roman";
+  	font-style: regular;}
+  body  {
+  	background-color: #cccccc;
+  	margin: 0;
+  	}
+  body:after {
+    	content : "";
+    	display: block;
+    	position: absolute;
+   	top: 0;
+    	left: 0;
+    	background-image: url("repeating_birds.jpg");
+    	width: 100%;
+    	height: 100%;
+    	opacity : 0.2;
+    	z-index: -1;}
+    	
+    	
+    	
+    	
+    	
+#form_background	{
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	min-width: 200px;
+	max-width: 500px;
+	width: 50%;
+    	margin: 5 auto;
+	}
+	
+
+.narrow {
+	padding: 5px 10px;
+}
+
+.full {
+	padding: 20px;
+	}
+
+
+input[type=text], select {
+        width: 100%;
+    	padding: 6px 10px;
+   	margin: 8px 0;
+    	display: inline-block;
+    	border: 1px solid #ccc;
+    	border-radius: 4px;
+    	box-sizing: border-box;
+}
+
+input[type=submit] {
+	display: block;
+	min-width: 200px;
+	width: 50%;
+	background-color: #4CAF50;
+	color: white;
+	font-size: 16;
+	padding: 7px 10px;
+	margin: 8 auto;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	
+}
+input[type=submit]:hover {
+	background-color: #45a049;
+}
+
+table {
+    
+}
+input[type=checkbox] {
+    font-size: 3px;
+}
+
+
+figure{
+	max-width: 80vmin; 
+	max-height: 60vh; 
+	margin: auto;
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px}
+figure img{display: block; max-width: 100%; max-height: 70vh; margin: 0 auto;}
+figcaption{font-style: italic; width: 80vmin;}
+
+
+form {
+	padding: 0;
+	margin: 0;
+}
+
+form p {
+	margin: 0;
+	}
+#instructions {
+	font: "Times New Roman";
+	font-style: italic; 
+	text-align: center;
+	margin: 0;
+	}
+#message {
+	font: "Times New Roman";
+	font-style: italic; 
+	text-align: center;
+	margin: 0;
+	}

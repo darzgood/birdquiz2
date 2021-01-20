@@ -1,0 +1,2136 @@
+# key:
+# co = coast
+# de = desert
+# fo = forest
+# gr = grassland
+# fw = freshwater
+# sm = swamp, marsh
+# mo = mountain
+# oc = ocean
+# ur = urban
+#
+# SW = Southwest 
+# SE = Southeast
+# NW = Northeast
+# SW = Southwest
+# NA = Not Available
+#
+# Name       Alpha code     Habitats     Regions
+Highland Tinamou  HITI  no  NA
+Great Tinamou  GRTI  no  NA
+Little Tinamou  LITI  no  NA
+Thicket Tinamou  THTI  no  NA
+Slaty-breasted Tinamou  SBTI  no  NA
+Choco Tinamou  CHTI  no  NA
+White-faced Whistling-Duck  WFWD  no  NA
+Black-bellied Whistling-Duck  BBWD  fw  SW SE
+West Indian Whistling-Duck  WIWD  no  NA
+Fulvous Whistling-Duck  FUWD  gr fw sm  SE
+Taiga Bean-Goose  TABG  fo gr fw  NA
+Tundra Bean-Goose  TUBG  fw sm  NA
+Pink-footed Goose  PFGO  fw  NE
+Greater White-fronted Goose  GWFG  gr sm  NW NE SW SE
+Lesser White-fronted Goose  LWFG  no  NA
+Graylag Goose  GRGO  no  NA
+Emperor Goose  EMGO  co gr  NW SW
+Snow Goose  SNGO  gr sm  NW NE SW SE
+Ross's Goose  ROGO  gr sm  NW NE SW SE
+Brant  BRAN  co gr sm  NW NE SW
+Barnacle Goose  BARG  co gr sm  NE
+Cackling Goose  CACG  gr fw sm  NW NE SW SE
+Canada Goose  CANG  gr fw sm ur  NW NE SW SE
+Hawaiian Goose  HAGO  co gr  NA
+Mute Swan  MUSW  fw  NE
+Trumpeter Swan  TRUS  fw sm  NW NE
+Tundra Swan  TUSW  gr fw  NW NE SW SE
+Whooper Swan  WHOS  fo gr fw  NW NE
+Comb Duck  CODU  no  NA
+Orinoco Goose  ORGO  no  NA
+Egyptian Goose  EGGO  no  SW SE
+Muscovy Duck  MUDU  fo  SE
+Wood Duck  WODU  sm  NW NE SW SE
+Gadwall  GADW  gr fw sm  NW NE SW SE
+Falcated Duck  FADU  fw sm  NW
+Eurasian Wigeon  EUWI  fw sm  NW NE SW
+American Wigeon  AMWI  co fw sm  NW NE SW SE
+American Black Duck  ABDU  fo fw sm  NE SE
+Mallard  MALL  fw sm ur  NW NE SW SE
+Mottled Duck  MODU  co sm  SE
+Hawaiian Duck  HAWD  fw sm  NA
+Laysan Duck  LAYD  co fw  NA
+Eastern Spot-billed Duck  ESBD  fw  NA
+Blue-winged Teal  BWTE  gr fw sm  NW NE SW SE
+Cinnamon Teal  CITE  fw sm  NW SW
+Northern Shoveler  NSHO  gr sm  NW NE SW SE
+White-cheeked Pintail  WCHP  co gr fw  SE
+Northern Pintail  NOPI  gr fw sm  NW NE SW SE
+Garganey  GARG  fw sm  NA
+Baikal Teal  BATE  fo gr fw  NW
+Green-winged Teal  GWTE  co fw sm  NW NE SW SE
+Canvasback  CANV  co fw sm  NW NE SW SE
+Redhead  REDH  fw sm  NW NE SW SE
+Common Pochard  COMP  fw sm  NA
+Ring-necked Duck  RNDU  fw  NW NE SW SE
+Tufted Duck  TUDU  fw  NW NE SW
+Greater Scaup  GRSC  co fw  NW NE SW SE
+Lesser Scaup  LESC  fw sm  NW NE SW SE
+Steller's Eider  STEI  co gr  NW
+Spectacled Eider  SPEI  gr oc  NA
+King Eider  KIEI  co fw oc  NE
+Common Eider  COEI  co oc  NE
+Harlequin Duck  HADU  co fw  NW NE
+Labrador Duck  LABD  no  NA
+Surf Scoter  SUSC  co oc  NW NE SW SE
+White-winged Scoter  WWSC  co fw oc  NW NE SW SE
+Black Scoter  BLSC  co oc  NW NE SW SE
+Long-tailed Duck  LTDU  co gr fw  NW NE SW SE
+Bufflehead  BUFF  co fw  NW NE SW SE
+Common Goldeneye  COGO  co fo fw  NW NE SW SE
+Barrow's Goldeneye  BAGO  co fw oc  NW NE
+Smew  SMEW  fo fw  NA
+Hooded Merganser  HOME  fo fw  NW NE SW SE
+Common Merganser  COME  fo fw  NW NE SW SE
+Red-breasted Merganser  RBME  fw  NW NE SW SE
+Masked Duck  MADU  fw  SE
+Ruddy Duck  RUDU  co sm  NW NE SW SE
+Plain Chachalaca  PLCH  fo  SE
+Gray-headed Chachalaca  GHEC  no  NA
+Rufous-vented Chachalaca  RVCH  no  NA
+Rufous-bellied Chachalaca  RBEC  no  NA
+West Mexican Chachalaca  WMCH  no  NA
+White-bellied Chachalaca  WBCH  no  NA
+Crested Guan  CRGU  no  NA
+Black Guan  BLAG  no  NA
+Highland Guan  HIGU  no  NA
+Horned Guan  HOGU  no  NA
+Great Curassow  GRCU  no  NA
+Helmeted Guineafowl  HELG  no  NA
+Bearded Wood-Partridge  BEWP  no  NA
+Long-tailed Wood-Partridge  LTWP  no  NA
+Buffy-crowned Wood-Partridge  BCWP  no  NA
+Mountain Quail  MOUQ  gr  NW SW
+Scaled Quail  SCQU  gr ur  SW
+Elegant Quail  ELQU  no  NA
+California Quail  CAQU  de fo mo ur  NW SW
+Gambel's Quail  GAQU  de  SW
+Banded Quail  BAQU  no  NA
+Northern Bobwhite  NOBO  fo gr  NE SE
+Black-throated Bobwhite  BTBO  no  NA
+Crested Bobwhite  CRBO  no  NA
+Marbled Wood-Quail  MAWQ  no  NA
+Black-eared Wood-Quail  BEWQ  no  NA
+Tacarcuna Wood-Quail  TAWQ  no  NA
+Black-breasted Wood-Quail  BBWQ  no  NA
+Spotted Wood-Quail  SPWQ  no  NA
+Singing Quail  SIQU  no  NA
+Montezuma Quail  MONQ  de gr  SW
+Ocellated Quail  OCQU  no  NA
+Tawny-faced Quail  TFQU  no  NA
+Chukar  CHUK  de mo  NW SW
+Gray Francolin  GRAF  de fo gr  NA
+Black Francolin  BLFR  gr  NA
+Erckel's Francolin  ERFR  fo gr  NA
+Himalayan Snowcock  HISN  mo  SW
+Gray Partridge  GRAP  gr  NW
+Japanese Quail  JAQU  gr  NA
+Red Junglefowl  REJU  fo gr  NA
+Kalij Pheasant  KAPH  fo  NA
+Ring-necked Pheasant  RNEP  gr  NW NE
+Indian Peafowl  INPE  gr  SE
+Ruffed Grouse  RUGR  fo gr  NW NE
+Greater Sage-Grouse  GRSG  gr  NW
+Gunnison Sage-Grouse  GUSG  gr  SW
+Spruce Grouse  SPGR  fo  NW NE
+Willow Ptarmigan  WIPT  gr  NA
+Rock Ptarmigan  ROPT  gr  NA
+White-tailed Ptarmigan  WTPT  gr mo  NW SW
+Dusky Grouse  DUGR  fo mo  NW SW
+Sooty Grouse  SOGR  fo mo  NW
+Sharp-tailed Grouse  STGR  fo gr  NW
+Greater Prairie-Chicken  GRPC  gr  NW
+Lesser Prairie-Chicken  LEPC  gr  SW
+Wild Turkey  WITU  fo gr  NW NE SW SE
+Ocellated Turkey  OCTU  no  NA
+Red-throated Loon  RTLO  co fw  NW NE SW SE
+Arctic Loon  ARLO  co fw oc  NA
+Pacific Loon  PALO  co fw  NW SW
+Common Loon  COLO  co fo fw  NW NE SW SE
+Yellow-billed Loon  YBLO  co gr  NW
+Least Grebe  LEGR  fw sm  SW
+Pied-billed Grebe  PBGR  fw sm  NW NE SW SE
+Atitlan Grebe  ATGR  no  NA
+Horned Grebe  HOGR  gr fw sm  NW NE SW SE
+Red-necked Grebe  RNGR  co fw  NW NE
+Eared Grebe  EAGR  co fw oc  NW NE SW SE
+Western Grebe  WEGR  co fw  NW SW
+Clark's Grebe  CLGR  co fw  NW SW
+American Flamingo  AMFL  co  SE
+Yellow-nosed Albatross  YNAL  co oc  NA
+White-capped Albatross  WCAL  no  NA
+Salvin's Albatross  SAAL  no  NA
+Black-browed Albatross  BBAL  oc  NA
+Light-mantled Albatross  LMAL  no  NA
+Wandering Albatross  WAAL  no  NA
+Laysan Albatross  LAAL  oc  NW SW
+Black-footed Albatross  BFAL  oc  NW SW
+Waved Albatross  WAVA  no  NA
+Short-tailed Albatross  STAL  oc  NW
+Northern Fulmar  NOFU  co oc  NW NE SW
+Great-winged Petrel  GWPE  co oc  NA
+Providence Petrel  PRPE  fo mo oc  NA
+Kermadec Petrel  KEPE  no  NA
+Trindade Petrel  TRPE  no  NA
+Herald Petrel  HEPE  co oc  NA
+Murphy's Petrel  MUPE  co oc  NW SW
+Mottled Petrel  MOPE  co oc  NW
+Bermuda Petrel  BEPE  co oc  NA
+Black-capped Petrel  BCPE  co oc  NE SE
+Juan Fernandez Petrel  JFPE  oc  NA
+Galapagos Petrel  GAPE  no  NA
+Hawaiian Petrel  HAPE  co oc  NA
+White-necked Petrel  WNPE  no  NA
+Bonin Petrel  BOPE  oc  NA
+Black-winged Petrel  BWPE  oc  NA
+Fea's Petrel  FEPE  co oc  NA
+Zino's Petrel  ZIPE  no  NA
+Cook's Petrel  COPE  co oc  SW
+Stejneger's Petrel  STPE  co oc  NA
+Tahiti Petrel  TAPE  no  NA
+Bulwer's Petrel  BUPE  co oc  NA
+Jouanin's Petrel  JOPE  no  NA
+White-chinned Petrel  WCPE  oc  NA
+Parkinson's Petrel  PAPE  oc  NA
+Streaked Shearwater  STRS  co oc  NA
+Cory's Shearwater  COSH  oc  NE SE
+Cape Verde Shearwater  CVSH  oc  NA
+Pink-footed Shearwater  PFSH  co oc  NW SW
+Flesh-footed Shearwater  FFSH  co oc  NW SW
+Great Shearwater  GRSH  co oc  NE SE
+Wedge-tailed Shearwater  WTSH  co fo gr oc  NA
+Buller's Shearwater  BULS  co oc  NW SW
+Sooty Shearwater  SOSH  co oc  NW NE SW SE
+Short-tailed Shearwater  SRTS  co oc  NW SW
+Christmas Shearwater  CHSH  oc  NA
+Galapagos Shearwater  GASH  no  NA
+Manx Shearwater  MASH  co oc  NE
+Townsend's Shearwater  TOSH  no  NA
+Newell's Shearwater  NESH  oc  NA
+Bryan's Shearwater  BRYS  no  NA
+Black-vented Shearwater  BVSH  co oc  SW
+Audubon's Shearwater  AUSH  co oc  NE SE
+Barolo Shearwater  BASH  oc  NA
+Wilson's Storm-Petrel  WISP  co oc  NE SE
+White-faced Storm-Petrel  WFSP  oc  NA
+European Storm-Petrel  EUSP  no  NA
+Black-bellied Storm-Petrel  BBSP  no  NA
+Fork-tailed Storm-Petrel  FTSP  co oc  NW SW
+Ringed Storm-Petrel  RISP  no  NA
+Swinhoe's Storm-Petrel  SSTP  no  NA
+Leach's Storm-Petrel  LESP  co oc  NW NE SW SE
+Ashy Storm-Petrel  ASSP  co oc  SW
+Band-rumped Storm-Petrel  BSTP  oc  NE SE
+Wedge-rumped Storm-Petrel  WRSP  co oc  NA
+Black Storm-Petrel  BLSP  co oc  SW
+Guadalupe Storm-Petrel  GUSP  no  NA
+Markham's Storm-Petrel  MASP  no  NA
+Tristram's Storm-Petrel  TRSP  no  NA
+Least Storm-Petrel  LSTP  co oc  SW
+White-tailed Tropicbird  WTTR  co fo oc  SE
+Red-billed Tropicbird  RBTR  oc  SW SE
+Red-tailed Tropicbird  RTTR  oc  NA
+Maguari Stork  MAST  no  NA
+Jabiru  JABI  fw  NA
+Wood Stork  WOST  sm  SE
+Magnificent Frigatebird  MAFR  co  SW SE
+Great Frigatebird  GREF  oc  NA
+Lesser Frigatebird  LEFR  oc  NA
+Masked Booby  MABO  co oc  SE
+Nazca Booby  NABO  no  NA
+Blue-footed Booby  BFBO  co oc  SW
+Peruvian Booby  PEBO  no  NA
+Brown Booby  BRBO  co oc  SW SE
+Red-footed Booby  RFBO  co fo oc  NA
+Northern Gannet  NOGA  co oc  NE SE
+Brandt's Cormorant  BRAC  co  NW SW
+Neotropic Cormorant  NECO  fw  SW SE
+Double-crested Cormorant  DCCO  co fw  NW NE SW SE
+Great Cormorant  GRCO  co oc  NE
+Red-faced Cormorant  RFCO  co  NA
+Pelagic Cormorant  PECO  co mo  NW SW
+Anhinga  ANHI  co fo fw sm  SE
+American White Pelican  AWPE  co fw  NW NE SW SE
+Brown Pelican  BRPE  co  SW SE
+Pinnated Bittern  PIBI  no  NA
+American Bittern  AMBI  co fw  NW NE SW SE
+Yellow Bittern  YEBI  fo fw sm  NA
+Least Bittern  LEBI  co sm  NE SW SE
+Little Bittern  LIBI  no  NA
+Rufescent Tiger-Heron  RTHE  no  NA
+Fasciated Tiger-Heron  FTHE  no  NA
+Bare-throated Tiger-Heron  BTTH  no  NA
+Great Blue Heron  GBHE  fw sm  NW NE SW SE
+Gray Heron  GRAH  co gr fw sm  NA
+Cocoi Heron  COHE  no  NA
+Purple Heron  PUHE  co fw sm  NA
+Great Egret  GREG  co fw sm  NW NE SW SE
+Intermediate Egret  INEG  co gr fw sm  NA
+Whistling Heron  WHHE  no  NA
+Chinese Egret  CHEG  co  NA
+Little Egret  LIEG  co fw  NA
+Western Reef-Heron  WERH  co  NA
+Snowy Egret  SNEG  fw sm  NW NE SW SE
+Little Blue Heron  LBHE  co gr fw sm  SE
+Tricolored Heron  TRHE  gr fw sm  SE
+Reddish Egret  REEG  fw  SW SE
+Cattle Egret  CAEG  gr fw sm ur  NW NE SW SE
+Chinese Pond-Heron  CHPH  gr fw sm  NA
+Green Heron  GRHE  fw  NE SW SE
+Striated Heron  STRH  co fw sm  NA
+Agami Heron  AGHE  no  NA
+Capped Heron  CAHE  no  NA
+Black-crowned Night-Heron  BCNH  fw sm  NW NE SW SE
+Yellow-crowned Night-Heron  YCNH  fo sm  SE
+Boat-billed Heron  BBHE  no  NA
+White Ibis  WHIB  sm  SE
+Scarlet Ibis  SCIB  sm  NA
+Glossy Ibis  GLIB  fw sm  NE SE
+White-faced Ibis  WFIB  sm  NW SW
+Green Ibis  GRIB  no  NA
+Buff-necked Ibis  BNIB  no  NA
+Eurasian Spoonbill  EURS  no  NA
+Roseate Spoonbill  ROSP  co  SE
+Black Vulture  BLVU  fo gr  NE SE
+Turkey Vulture  TUVU  fo  NW NE SW SE
+Lesser Yellow-headed Vulture  LYHV  no  NA
+California Condor  CACO  fo mo  SW
+King Vulture  KIVU  no  NA
+Osprey  OSPR  co fw  NW NE SW SE
+Gray-headed Kite  GHKI  no  NA
+Hook-billed Kite  HBKI  fo  NA
+Swallow-tailed Kite  STKI  fo fw sm  SE
+Pearl Kite  PEKI  no  NA
+White-tailed Kite  WTKI  gr  SW
+Snail Kite  SNKI  fo fw sm  SE
+Slender-billed Kite  SBKI  no  NA
+Double-toothed Kite  DTKI  no  NA
+Mississippi Kite  MIKI  fo gr  SW SE
+Plumbeous Kite  PLKI  no  NA
+Black Kite  BLAK  fo gr fw  NA
+Bald Eagle  BAEA  co fw  NW NE SW SE
+White-tailed Eagle  WTEA  co fw oc  NA
+Steller's Sea-Eagle  STSE  co fo  NA
+Black-collared Hawk  BCHA  no  NA
+Northern Harrier  NOHA  gr sm  NW NE SW SE
+Long-winged Harrier  LWHA  no  NA
+Western Marsh Harrier  WMHA  no  NA
+Gray-bellied Hawk  GBEH  no  NA
+Chinese Sparrowhawk  CHIS  fo  NA
+Tiny Hawk  TIHA  no  NA
+Sharp-shinned Hawk  SSHA  fo  NW NE SW SE
+Cooper's Hawk  COHA  fo  NW NE SW SE
+Gundlach's Hawk  GUHA  no  NA
+Bicolored Hawk  BIHA  no  NA
+Northern Goshawk  NOGO  fo  NW NE SW
+Crane Hawk  CRHA  no  NA
+Plumbeous Hawk  PLHA  no  NA
+Common Black Hawk  COBH  no  SW
+Cuban Black Hawk  CUBH  no  NA
+Savanna Hawk  SAHA  no  NA
+Great Black Hawk  GBLH  no  NA
+Solitary Eagle  SOEA  no  NA
+Barred Hawk  BAHA  no  NA
+Roadside Hawk  ROHA  fo gr  NA
+Harris's Hawk  HASH  de fo gr mo  SW
+White-tailed Hawk  WTHA  fo  SW
+White Hawk  WHHA  no  NA
+Semiplumbeous Hawk  SEHA  no  NA
+Gray Hawk  GRHA  fo  SW
+Gray-lined Hawk  GLHA  no  NA
+Red-shouldered Hawk  RSHA  fo  NE SW SE
+Ridgway's Hawk  RIHA  no  NA
+Broad-winged Hawk  BWHA  fo  NW NE SW SE
+Hawaiian Hawk  HAWH  fo gr  NA
+Short-tailed Hawk  STHA  fo gr  SE
+Swainson's Hawk  SWHA  gr  NW SW
+Zone-tailed Hawk  ZTHA  de fo mo  SW
+Red-tailed Hawk  RTHA  fo gr mo  NW NE SW SE
+Rough-legged Hawk  RLHA  gr sm  NW NE SW
+Ferruginous Hawk  FEHA  de gr  NW SW
+Crested Eagle  CREA  no  NA
+Harpy Eagle  HAEA  no  NA
+Golden Eagle  GOEA  gr mo  NW NE SW SE
+Black Hawk-Eagle  BLHE  no  NA
+Ornate Hawk-Eagle  ORHE  no  NA
+Black-and-white Hawk-Eagle  BAWH  no  NA
+Sunbittern  SUNB  no  NA
+Yellow Rail  YERA  gr sm  NE SE
+Ocellated Crake  OCCR  no  NA
+Ruddy Crake  RUCR  no  NA
+White-throated Crake  WTCR  no  NA
+Gray-breasted Crake  GBCR  no  NA
+Black Rail  BLRA  gr sm  SE
+Corn Crake  CORC  gr sm  NA
+Ridgway's Rail  RIRA  no  NA
+Clapper Rail  CLRA  co sm  NE SE
+Aztec Rail  AZRA  no  NA
+King Rail  KIRA  sm  NE SE
+Virginia Rail  VIRA  gr sm  NW NE SW SE
+Rufous-necked Wood-Rail  RUWR  no  NA
+Gray-necked Wood-Rail  GNWR  no  NA
+Uniform Crake  UNIC  no  NA
+Laysan Rail  LARA  no  NA
+Spotted Crake  SPCR  no  NA
+Sora  SORA  sm  NW NE SW SE
+Hawaiian Rail  HARA  no  NA
+Yellow-breasted Crake  YBCR  no  NA
+Colombian Crake  COLC  no  NA
+Paint-billed Crake  PBCR  no  NA
+Zapata Rail  ZARA  no  NA
+Spotted Rail  SPRA  no  NA
+Purple Gallinule  PUGA  fw sm  SE
+Azure Gallinule  AZGA  no  NA
+Common Gallinule  COGA  gr fw sm  NE SW SE
+Common Moorhen  COMO  no  NE SW SE
+Eurasian Coot  EUCO  co gr fw sm  NA
+Hawaiian Coot  HACO  sm  NA
+American Coot  AMCO  co fw sm  NW NE SW SE
+Caribbean Coot  CARC  no  NA
+Sungrebe  SUNG  no  NA
+Limpkin  LIMP  fo sm  SE
+Sandhill Crane  SACR  gr sm  NW NE SW SE
+Common Crane  CCRA  fo gr fw sm  NA
+Whooping Crane  WHCR  gr fw sm  NW NE SE
+Double-striped Thick-knee  DSTK  no  NA
+Black-winged Stilt  BWST  co fw sm  NA
+Black-necked Stilt  BNST  co sm  NW SW SE
+American Avocet  AMAV  co fw sm  NW NE SW SE
+Eurasian Oystercatcher  EUOY  no  NA
+American Oystercatcher  AMOY  co  NE SE
+Black Oystercatcher  BLOY  co  NW SW
+Northern Lapwing  NOLA  co gr sm  NE
+Southern Lapwing  SOLA  no  NA
+Black-bellied Plover  BBPL  co gr fw sm  NW NE SW SE
+European Golden-Plover  EUGP  co gr  NA
+American Golden-Plover  AMGP  co gr  NW NE SW SE
+Pacific Golden-Plover  PAGP  co gr  NW SW
+Lesser Sand-Plover  LSAP  co gr mo  NA
+Greater Sand-Plover  GSAP  co de sm  NA
+Collared Plover  COPL  no  NA
+Snowy Plover  SNPL  co fw  SW SE
+Wilson's Plover  WIPL  co  SE
+Common Ringed Plover  CRPL  co gr sm  NA
+Semipalmated Plover  SEPL  fw sm  NW NE SW SE
+Piping Plover  PIPL  co fw  NE SE
+Little Ringed Plover  LRPL  co fw  NA
+Killdeer  KILL  gr  NW NE SW SE
+Mountain Plover  MOPL  gr  NW SW
+Eurasian Dotterel  EUDO  mo  NA
+Northern Jacana  NOJA  sm  NA
+Wattled Jacana  WAJA  no  NA
+Terek Sandpiper  TESA  co fo sm  NA
+Common Sandpiper  COSA  co gr fw sm  NA
+Spotted Sandpiper  SPSA  co fw  NW NE SW SE
+Green Sandpiper  GRSA  co fo fw sm  NA
+Solitary Sandpiper  SOSA  co fo fw  NW NE SW SE
+Gray-tailed Tattler  GTTA  co mo  NA
+Wandering Tattler  WATA  co  NW SW
+Spotted Redshank  SPRE  gr fw sm  NA
+Greater Yellowlegs  GRYE  co gr fw sm  NW NE SW SE
+Common Greenshank  COMG  fo gr fw sm  NA
+Willet  WILL  co  NW NE SW SE
+Lesser Yellowlegs  LEYE  co gr fw  NW NE SW SE
+Marsh Sandpiper  MASA  sm  NA
+Wood Sandpiper  WOSA  co fo sm  NA
+Common Redshank  CREH  co gr sm  NA
+Upland Sandpiper  UPSA  gr  NW NE SE
+Little Curlew  LICU  co gr fw  NA
+Eskimo Curlew  ESCU  co gr  NA
+Whimbrel  WHIM  co gr sm  NW NE SW SE
+Bristle-thighed Curlew  BTCU  co gr  NA
+Far Eastern Curlew  FECU  co gr sm  NA
+Slender-billed Curlew  SBCU  no  NA
+Eurasian Curlew  EUCU  co gr sm  NA
+Long-billed Curlew  LBCU  co gr fw sm  NW SW
+Black-tailed Godwit  BTGD  co gr fw sm  NA
+Hudsonian Godwit  HUGO  co gr sm  NE SE
+Bar-tailed Godwit  BTGO  co gr fw sm  NA
+Marbled Godwit  MAGO  co gr sm  NW NE SW SE
+Ruddy Turnstone  RUTU  co gr  NW NE SW SE
+Black Turnstone  BLTU  co gr sm  NW SW
+Great Knot  GRKN  co gr mo  NA
+Red Knot  REKN  co gr  NW NE SW SE
+Surfbird  SURF  co gr mo  NW SW
+Ruff  RUFF  co gr fw  NW NE SW SE
+Broad-billed Sandpiper  BBIS  co gr sm  NA
+Sharp-tailed Sandpiper  SPTS  co gr fw  NW
+Stilt Sandpiper  STSA  gr  NW NE SW SE
+Curlew Sandpiper  CUSA  co gr fw sm  NW NE
+Temminck's Stint  TEST  co sm  NA
+Long-toed Stint  LTST  gr fw sm mo  NA
+Spoon-billed Sandpiper  SBSA  co  NA
+Red-necked Stint  RNST  co gr fw sm  NA
+Sanderling  SAND  co gr fw  NW NE SW SE
+Dunlin  DUNL  co gr fw sm  NW NE SW SE
+Rock Sandpiper  ROSA  gr  NW
+Purple Sandpiper  PUSA  co  NE
+Baird's Sandpiper  BASA  co gr fw sm  NW NE SW SE
+Little Stint  LIST  co gr sm  NA
+Least Sandpiper  LESA  co sm  NW NE SW SE
+White-rumped Sandpiper  WRSA  gr sm  NE SE
+Buff-breasted Sandpiper  BBSA  gr  NE SE
+Pectoral Sandpiper  PESA  co gr fw sm  NW NE SW SE
+Semipalmated Sandpiper  SESA  co gr  NW NE SW SE
+Western Sandpiper  WESA  co gr fw  NW NE SW SE
+Short-billed Dowitcher  SBDO  gr sm  NW NE SW SE
+Long-billed Dowitcher  LBDO  gr sm  NW NE SW SE
+Jack Snipe  JASN  fo gr sm  NA
+Wilson's Snipe  WISN  gr fw sm  NW NE SW SE
+Common Snipe  COSN  co fo gr fw sm  NA
+Pin-tailed Snipe  PTSN  co gr sm  NA
+Solitary Snipe  SOSN  no  NA
+Eurasian Woodcock  EUWO  no  NA
+American Woodcock  AMWO  fo gr  NE SE
+Wilson's Phalarope  WIPH  gr fw sm  NW NE SW SE
+Red-necked Phalarope  RNPH  co fw oc  NW NE SW SE
+Red Phalarope  REPH  co fw oc  NW NE SW SE
+Collared Pratincole  COPR  no  NA
+Oriental Pratincole  ORPR  co gr sm  NA
+Great Skua  GRSK  oc  NE
+South Polar Skua  SPSK  oc  NW NE SW
+Pomarine Jaeger  POJA  fo gr oc  NW NE SW SE
+Parasitic Jaeger  PAJA  gr oc  NW NE SW SE
+Long-tailed Jaeger  LTJA  gr oc  NW NE SW
+Dovekie  DOVE  co mo  NE
+Common Murre  COMU  co  NW NE SW
+Thick-billed Murre  TBMU  co  NE
+Razorbill  RAZO  co  NE
+Great Auk  GRAU  no  NA
+Black Guillemot  BLGU  co mo  NE
+Pigeon Guillemot  PIGU  co  NW SW
+Long-billed Murrelet  LBMU  oc fw  NA
+Marbled Murrelet  MAMU  co oc  NW
+Kittlitz's Murrelet  KIMU  co mo  NA
+Scripps's Murrelet  SCMU  oc  NA
+Guadalupe Murrelet  GAMU  oc  NA
+Craveri's Murrelet  CRMU  co oc  NA
+Ancient Murrelet  ANMU  co oc  NW SW
+Cassin's Auklet  CAAU  co oc  NW SW
+Parakeet Auklet  PAAU  co oc  NW
+Least Auklet  LEAU  co oc  NA
+Whiskered Auklet  WHAU  co  NA
+Crested Auklet  CRAU  co oc  NA
+Rhinoceros Auklet  RHAU  gr  NW SW
+Atlantic Puffin  ATPU  co  NE
+Horned Puffin  HOPU  co oc  NW
+Tufted Puffin  TUPU  co  NW SW
+Swallow-tailed Gull  STGU  no  NA
+Black-legged Kittiwake  BLKI  co oc ur  NW NE SW SE
+Red-legged Kittiwake  RLKI  co oc  NA
+Ivory Gull  IVGU  co oc  NE
+Sabine's Gull  SAGU  co gr  NW NE SW
+Bonaparte's Gull  BOGU  co fw sm  NW NE SW SE
+Gray-hooded Gull  GHGU  no  NA
+Black-headed Gull  BHGU  co gr fw sm  NE
+Little Gull  LIGU  co fw  NE
+Ross's Gull  ROGU  co oc  NA
+Gray Gull  GRGU  no  NA
+Laughing Gull  LAGU  co sm  NE SW SE
+Franklin's Gull  FRGU  co fw sm  NW NE SW SE
+Belcher's Gull  BEGU  co oc  NA
+Black-tailed Gull  BTGU  co  NA
+Heermann's Gull  HEEG  co  NW SW
+Mew Gull  MEGU  co gr fw sm  NW SW
+Ring-billed Gull  RBGU  co fw  NW NE SW SE
+Western Gull  WEGU  co oc  NW SW
+Yellow-footed Gull  YFGU  co oc  NA
+California Gull  CAGU  co fw sm  NW SW
+Herring Gull  HERG  co fw  NW NE SW SE
+Yellow-legged Gull  YLGU  co oc  NA
+Thayer's Gull  THGU  co gr mo  NW NE SW
+Iceland Gull  ICGU  co  NE
+Lesser Black-backed Gull  LBBG  co fw ur  NE SE
+Slaty-backed Gull  SBGU  co oc  NA
+Glaucous-winged Gull  GWGU  co  NW SW
+Glaucous Gull  GLGU  co fw  NE
+Great Black-backed Gull  GBBG  co fw  NE SE
+Kelp Gull  KEGU  co fw oc  NA
+Brown Noddy  BRNO  co oc  SE
+Black Noddy  BLNO  co oc  NA
+Blue-gray Noddy  BGNO  oc  NA
+White Tern  WHTT  co fo oc  NA
+Sooty Tern  SOTE  co oc  SE
+Gray-backed Tern  GBAT  co oc  NA
+Bridled Tern  BRTE  co oc  NE SE
+Aleutian Tern  ALTE  co  NA
+Little Tern  LITE  co gr sm  NA
+Least Tern  LETE  co  NE SW SE
+Yellow-billed Tern  YBTE  no  NA
+Large-billed Tern  LBTE  co fw  NA
+Gull-billed Tern  GBTE  co gr  SE
+Caspian Tern  CATE  co  NW NE SW SE
+Inca Tern  INTE  no  NA
+Black Tern  BLTE  co gr fw sm  NW NE SW SE
+White-winged Tern  WWTE  co gr fw sm  NA
+Whiskered Tern  WHST  co fw sm  NA
+Roseate Tern  ROST  co oc  NE SE
+Common Tern  COTE  co gr  NW NE SW SE
+Arctic Tern  ARTE  co gr  NW NE SW
+Forster's Tern  FOTE  co sm  NW NE SW SE
+Royal Tern  ROYT  co  SW SE
+Great Crested Tern  GCTE  no  NA
+Sandwich Tern  SATE  co  NE SE
+Elegant Tern  ELTE  co  NW SW
+Black Skimmer  BLSK  co fw sm  NE SW SE
+Chestnut-bellied Sandgrouse  CBSA  de  NA
+Rock Pigeon  ROPI  gr mo ur  NW NE SW SE
+Pale-vented Pigeon  PVPI  no  NA
+Scaled Pigeon  SCPI  no  NA
+Scaly-naped Pigeon  SNPI  no  NA
+White-crowned Pigeon  WCPI  co fo sm  SE
+Red-billed Pigeon  RBPI  fo  NA
+Plain Pigeon  PLAP  no  NA
+Band-tailed Pigeon  BTPI  co fo  NW SW
+Ring-tailed Pigeon  RTAP  no  NA
+Plumbeous Pigeon  PLUP  no  NA
+Ruddy Pigeon  RUDP  no  NA
+Short-billed Pigeon  SBPI  no  NA
+Dusky Pigeon  DUPI  no  NA
+Oriental Turtle-Dove  ORTD  fo  NA
+African Collared-Dove  AFCD  no  NA
+European Turtle-Dove  EUTD  no  NA
+Eurasian Collared-Dove  EUCD  sm ur  NW NE SW SE
+Spotted Dove  SPDO  fo ur  NA
+Zebra Dove  ZEBD  fo gr ur  NA
+Passenger Pigeon  PAPI  no  NA
+Inca Dove  INDO  gr sm ur  SW SE
+Common Ground-Dove  COGD  gr ur  SW SE
+Plain-breasted Ground-Dove  PBGD  no  NA
+Ruddy Ground-Dove  RUGD  fo gr sm  SW
+Blue Ground-Dove  BLGD  no  NA
+Maroon-chested Ground-Dove  MCGD  no  NA
+Blue-headed Quail-Dove  BHQD  no  NA
+Crested Quail-Dove  CRQD  no  NA
+Ruddy Quail-Dove  RUQD  fo sm  NA
+Violaceous Quail-Dove  VIQD  no  NA
+Gray-fronted Quail-Dove  GFQD  no  NA
+White-fronted Quail-Dove  WFRQ  no  NA
+Key West Quail-Dove  KWQD  fo sm  NA
+Bridled Quail-Dove  BRQD  no  NA
+Olive-backed Quail-Dove  OBQD  no  NA
+White-tipped Dove  WTDO  fo sm  SW
+Caribbean Dove  CADO  no  NA
+Gray-chested Dove  GCDO  no  NA
+Gray-headed Dove  GHDO  no  NA
+Grenada Dove  GRDO  no  NA
+Tuxtla Quail-Dove  TUQD  no  NA
+Buff-fronted Quail-Dove  BFQD  no  NA
+Purplish-backed Quail-Dove  PBQD  no  NA
+White-faced Quail-Dove  WFAQ  no  NA
+Chiriqui Quail-Dove  CHQD  no  NA
+Russet-crowned Quail-Dove  RCQD  no  NA
+White-winged Dove  WWDO  fo gr ur  SW SE
+Zenaida Dove  ZEND  co fo  NA
+Eared Dove  EADO  no  NA
+Mourning Dove  MODO  gr ur  NW NE SW SE
+Socorro Dove  SODO  no  NA
+Common Cuckoo  COCU  fo gr sm  NA
+Oriental Cuckoo  ORCU  fo  NA
+Little Cuckoo  LITC  no  NA
+Squirrel Cuckoo  SQCU  no  NA
+Dark-billed Cuckoo  DBCU  no  NA
+Yellow-billed Cuckoo  YBCU  gr  NE SW SE
+Pearly-breasted Cuckoo  PBCU  no  NA
+Mangrove Cuckoo  MACU  fo  NA
+Cocos Cuckoo  COCC  no  NA
+Black-billed Cuckoo  BBCU  fo  NW NE SE
+Chestnut-bellied Cuckoo  CBCU  no  NA
+Bay-breasted Cuckoo  BBRC  no  NA
+Jamaican Lizard-Cuckoo  JALC  no  NA
+Puerto Rican Lizard-Cuckoo  PRLC  no  NA
+Great Lizard-Cuckoo  GRLC  no  NA
+Hispaniolan Lizard-Cuckoo  HILC  no  NA
+Striped Cuckoo  STCU  no  NA
+Pheasant Cuckoo  PHCU  no  NA
+Lesser Ground-Cuckoo  LEGC  no  NA
+Lesser Roadrunner  LERO  no  NA
+Greater Roadrunner  GRRO  de gr  SW
+Rufous-vented Ground-Cuckoo  RVGC  no  NA
+Greater Ani  GRTA  no  NA
+Smooth-billed Ani  SBAN  sm  SE
+Groove-billed Ani  GBAN  fo sm  SE
+Barn Owl  BANO  fo gr ur  NW NE SW SE
+Ashy-faced Owl  AFOW  no  NA
+Oriental Scops-Owl  ORSO  no  NA
+Flammulated Owl  FLOW  fo mo  NW SW
+Western Screech-Owl  WESO  fo gr  NW SW
+Eastern Screech-Owl  EASO  fo gr fw sm ur  NE SE
+Balsas Screech-Owl  BASO  no  NA
+Pacific Screech-Owl  PASO  no  NA
+Whiskered Screech-Owl  WHSO  fo  NA
+Tropical Screech-Owl  TRSO  no  NA
+Bearded Screech-Owl  BESO  no  NA
+Vermiculated Screech-Owl  VESO  no  NA
+Bare-shanked Screech-Owl  BSSO  no  NA
+Puerto Rican Screech-Owl  PRSO  no  NA
+Bare-legged Owl  BLOW  no  NA
+Crested Owl  CROW  no  NA
+Spectacled Owl  SPEO  no  NA
+Great Horned Owl  GHOW  fo  NW NE SW SE
+Snowy Owl  SNOW  gr fw sm  NW NE
+Northern Hawk Owl  NHOW  fo  NW NE
+Northern Pygmy-Owl  NOPO  fo gr  NW SW
+Costa Rican Pygmy-Owl  CRPO  no  NA
+Central American Pygmy-Owl  CAPO  no  NA
+Tamaulipas Pygmy-Owl  TAPO  no  NA
+Colima Pygmy-Owl  CPYO  no  NA
+Ferruginous Pygmy-Owl  FEPO  de fo  NA
+Cuban Pygmy-Owl  CUPO  no  NA
+Elf Owl  ELOW  de fo mo  SW
+Burrowing Owl  BUOW  fo gr  NW SW
+Mottled Owl  MOOW  no  NA
+Black-and-white Owl  BLWO  no  NA
+Spotted Owl  SPOW  fo  NW SW
+Barred Owl  BADO  fo fw  NW NE SE
+Fulvous Owl  FUOW  no  NA
+Great Gray Owl  GGOW  fo  NW NE
+Long-eared Owl  LEOW  de fo gr  NW NE SW
+Stygian Owl  STOW  no  NA
+Short-eared Owl  SEOW  gr sm mo  NW NE SW SE
+Striped Owl  STRO  no  NA
+Jamaican Owl  JAOW  no  NA
+Boreal Owl  BOOW  fo gr  NW NE
+Northern Saw-whet Owl  NSWO  fo ur  NW NE SW
+Unspotted Saw-whet Owl  USWO  no  NA
+Northern Boobook  NOBB  no  NA
+Short-tailed Nighthawk  SHTN  no  NA
+Lesser Nighthawk  LENI  gr  SW
+Common Nighthawk  CONI  gr ur  NW NE SW SE
+Antillean Nighthawk  ANNI  gr  NA
+Common Pauraque  COPA  fo sm  SW
+Common Poorwill  COPO  fo mo  NW SW
+Jamaican Pauraque  JAPA  no  NA
+Least Pauraque  LEPA  no  NA
+Eared Poorwill  EAPO  no  NA
+Yucatan Poorwill  YUPO  no  NA
+Ocellated Poorwill  OCPO  no  NA
+Chuck-will's-widow  CWWI  fo gr  NE SE
+Rufous Nightjar  RUNI  no  NA
+Greater Antillean Nightjar  GANI  no  NA
+Tawny-collared Nightjar  TCNI  no  NA
+Yucatan Nightjar  YUNI  no  NA
+Buff-collared Nightjar  BCNI  fo gr mo  NA
+Eastern Whip-poor-will  EWPW  fo  NE SE
+Dusky Nightjar  DUNI  no  NA
+Mexican Whip-poor-will  MWPW  fo  SW
+Puerto Rican Nightjar  PRNI  no  NA
+White-tailed Nightjar  WTNI  no  NA
+Spot-tailed Nightjar  SPTN  no  NA
+Gray Nightjar  GRNI  no  NA
+Great Potoo  GRPO  no  NA
+Common Potoo  CPOT  no  NA
+Northern Potoo  NORP  no  NA
+Oilbird  OILB  no  NA
+Black Swift  BLSW  co mo  NW SW
+White-fronted Swift  WFSW  no  NA
+White-chinned Swift  WCHS  no  NA
+Spot-fronted Swift  SFSW  no  NA
+Chestnut-collared Swift  CCSW  no  NA
+White-collared Swift  WCSW  fo gr mo  NA
+White-naped Swift  WNSW  no  NA
+Chimney Swift  CHSW  fo gr ur  NE SE
+Vaux's Swift  VASW  fo  NW SW
+Chapman's Swift  CHAS  no  NA
+Short-tailed Swift  STSW  no  NA
+Sick's Swift  SISW  no  NA
+Band-rumped Swift  BRSW  no  NA
+Costa Rican Swift  CRSW  no  NA
+Gray-rumped Swift  GRSW  no  NA
+Lesser Antillean Swift  LASW  no  NA
+White-throated Needletail  WTNE  co fo gr mo  NA
+Mariana Swiftlet  MASW  fo  NA
+Common Swift  COSW  ur  NA
+Fork-tailed Swift  FTSW  co fo mo ur  NA
+Alpine Swift  ALSW  no  NA
+White-throated Swift  WTSW  mo  NW SW
+Lesser Swallow-tailed Swift  LSTS  no  NA
+Great Swallow-tailed Swift  GSTS  no  NA
+Antillean Palm-Swift  ANPS  no  NA
+White-necked Jacobin  WNJA  no  NA
+White-tipped Sicklebill  WTSI  no  NA
+Bronzy Hermit  BRHE  no  NA
+Rufous-breasted Hermit  RBHE  no  NA
+Band-tailed Barbthroat  BTBA  no  NA
+Green Hermit  GREH  no  NA
+Mexican Hermit  MEHE  no  NA
+Long-billed Hermit  LBIH  no  NA
+Pale-bellied Hermit  PBHE  no  NA
+Stripe-throated Hermit  STHR  no  NA
+Green-fronted Lancebill  GFRL  no  NA
+Brown Violetear  BRVI  no  NA
+Mexican Violetear  MEVI  fo mo  NA
+Lesser Violetear  LEVI  no  NA
+Tooth-billed Hummingbird  TBHU  no  NA
+Purple-crowned Fairy  PCFA  no  NA
+Ruby-topaz Hummingbird  RTOH  no  NA
+Green-breasted Mango  GNBM  fo ur  NA
+Black-throated Mango  BTMA  no  NA
+Veraguan Mango  VEMA  no  NA
+Antillean Mango  ANMA  no  NA
+Green Mango  GMAG  no  NA
+Jamaican Mango  JAMA  no  NA
+Purple-throated Carib  PTCA  no  NA
+Green-throated Carib  GTCA  no  NA
+Green Thorntail  GRET  no  NA
+Short-crested Coquette  SCCO  no  NA
+Rufous-crested Coquette  RCRC  no  NA
+Black-crested Coquette  BCCO  no  NA
+White-crested Coquette  WCCO  no  NA
+Greenish Puffleg  GRPU  no  NA
+Green-crowned Brilliant  GCBR  no  NA
+Magnificent Hummingbird  MAHU  de fo mo  SW
+Fiery-throated Hummingbird  FTHU  no  NA
+Long-billed Starthroat  LBST  no  NA
+Plain-capped Starthroat  PCST  fo gr  NA
+Green-throated Mountain-gem  GTMG  no  NA
+Green-breasted Mountain-gem  GBMG  no  NA
+Amethyst-throated Hummingbird  ATHU  no  NA
+Blue-throated Hummingbird  BTHH  fo  SW
+White-bellied Mountain-gem  WBMG  no  NA
+Purple-throated Mountain-gem  PTMG  no  NA
+White-throated Mountain-gem  WTMG  no  NA
+Garnet-throated Hummingbird  GATH  no  NA
+Bahama Woodstar  BAWO  fo ur  NA
+Inagua Woodstar  INWO  no  NA
+Magenta-throated Woodstar  MTWO  no  NA
+Purple-throated Woodstar  PTWO  no  NA
+Slender Sheartail  SLSH  no  NA
+Mexican Sheartail  MESH  no  NA
+Sparkling-tailed Hummingbird  SKTH  no  NA
+Lucifer Hummingbird  LUHU  de sm  SW
+Beautiful Hummingbird  BEAH  no  NA
+Ruby-throated Hummingbird  RTHU  fo  NE SE
+Black-chinned Hummingbird  BCHU  fo mo  NW SW
+Vervain Hummingbird  VEHU  no  NA
+Bee Hummingbird  BEEH  no  NA
+Anna's Hummingbird  ANHU  fo  NW SW
+Costa's Hummingbird  COHU  de  SW
+Bumblebee Hummingbird  BUHU  fo mo  NA
+Wine-throated Hummingbird  WTHH  no  NA
+Broad-tailed Hummingbird  BTAH  fo mo  NW SW
+Rufous Hummingbird  RUHU  fo  NW NE SW SE
+Allen's Hummingbird  ALHU  co fo  SW
+Volcano Hummingbird  VOHU  no  NA
+Glow-throated Hummingbird  GLTH  no  NA
+Scintillant Hummingbird  SCHU  no  NA
+Calliope Hummingbird  CAHU  fo mo  NW SW
+Golden-crowned Emerald  GCEM  no  NA
+Cozumel Emerald  COEM  no  NA
+Canivet's Emerald  CAEM  no  NA
+Garden Emerald  GAEM  no  NA
+Cuban Emerald  CUEM  no  NA
+Brace's Emerald  BREM  no  NA
+Hispaniolan Emerald  HIEM  no  NA
+Puerto Rican Emerald  PREM  no  NA
+Dusky Hummingbird  DUHU  no  NA
+Broad-billed Hummingbird  BBIH  fo mo  SW
+Blue-headed Hummingbird  BHHU  no  NA
+Violet-headed Hummingbird  VHHU  no  NA
+Emerald-chinned Hummingbird  ECHU  no  NA
+Antillean Crested Hummingbird  ANCH  no  NA
+Scaly-breasted Hummingbird  SBRH  no  NA
+Wedge-tailed Sabrewing  WTSA  no  NA
+Long-tailed Sabrewing  LTSA  no  NA
+Rufous Sabrewing  RUSA  no  NA
+Violet Sabrewing  VISA  no  NA
+Stripe-tailed Hummingbird  STHM  no  NA
+Blue-capped Hummingbird  BCAH  no  NA
+White-tailed Hummingbird  WTAH  no  NA
+Black-bellied Hummingbird  BLBH  no  NA
+White-tailed Emerald  WTEM  no  NA
+Coppery-headed Emerald  CHEM  no  NA
+Snowcap  SNOC  no  NA
+White-vented Plumeleteer  WVPL  no  NA
+Bronze-tailed Plumeleteer  BTPL  no  NA
+Mexican Woodnymph  MEWO  no  NA
+Crowned Woodnymph  CRWO  no  NA
+White-bellied Emerald  WBEM  no  NA
+Honduran Emerald  HOEM  no  NA
+Blue-chested Hummingbird  BCHH  no  NA
+Charming Hummingbird  CHHU  no  NA
+Mangrove Hummingbird  MANH  no  NA
+Azure-crowned Hummingbird  AZCH  no  NA
+Berylline Hummingbird  BEHU  fo mo  NA
+Blue-tailed Hummingbird  BTLH  no  NA
+Steely-vented Hummingbird  SVHU  no  NA
+Snowy-bellied Hummingbird  SBEH  no  NA
+Rufous-tailed Hummingbird  RTAH  no  NA
+Buff-bellied Hummingbird  BBEH  fo ur  SE
+Cinnamon Hummingbird  CIHU  fo gr  NA
+Violet-crowned Hummingbird  VCHU  fo mo  NA
+Green-fronted Hummingbird  GFHU  no  NA
+Streamertail  STRM  no  NA
+Pirre Hummingbird  PIHU  no  NA
+Violet-capped Hummingbird  VCAH  no  NA
+Sapphire-throated Hummingbird  SHTH  no  NA
+Violet-bellied Hummingbird  VBHU  no  NA
+Humboldt's Sapphire  HUSA  no  NA
+Blue-throated Goldentail  BTRG  no  NA
+White-eared Hummingbird  WEHU  fo  NA
+Xantus's Hummingbird  XAHU  fo sm mo  NA
+Cuban Trogon  CUTR  no  NA
+Hispaniolan Trogon  HITR  no  NA
+Lattice-tailed Trogon  LTTR  no  NA
+Slaty-tailed Trogon  STTR  no  NA
+Black-tailed Trogon  BTAT  no  NA
+Black-headed Trogon  BHTR  no  NA
+Citreoline Trogon  CITR  no  NA
+White-tailed Trogon  WTAT  no  NA
+Baird's Trogon  BATR  no  NA
+Gartered Trogon  GATR  no  NA
+Black-throated Trogon  BTHT  no  NA
+Elegant Trogon  ELTR  fo  NA
+Mountain Trogon  MOTR  no  NA
+Collared Trogon  COTR  no  NA
+Orange-bellied Trogon  OBTR  no  NA
+Eared Quetzal  EAQU  fo  NA
+Golden-headed Quetzal  GHQU  no  NA
+Resplendent Quetzal  REQU  no  NA
+Eurasian Hoopoe  EHOO  no  NA
+Cuban Tody  CUTO  no  NA
+Broad-billed Tody  BBTO  no  NA
+Narrow-billed Tody  NBTO  no  NA
+Jamaican Tody  JATO  no  NA
+Puerto Rican Tody  PRTO  no  NA
+Tody Motmot  TOMO  no  NA
+Blue-throated Motmot  BTMO  no  NA
+Russet-crowned Motmot  RCMO  no  NA
+Blue-crowned Motmot  BCMO  no  NA
+Rufous Motmot  RMOT  no  NA
+Keel-billed Motmot  KBMO  no  NA
+Broad-billed Motmot  BBMO  no  NA
+Turquoise-browed Motmot  TBMO  no  NA
+Ringed Kingfisher  RIKI  co fw  SW SE
+Belted Kingfisher  BEKI  co fw  NW NE SW SE
+Amazon Kingfisher  AMKI  no  NA
+Green Kingfisher  GKIN  co fw  SW
+Green-and-rufous Kingfisher  GARK  no  NA
+American Pygmy Kingfisher  APKI  no  NA
+Barred Puffbird  BAPU  no  NA
+White-necked Puffbird  WNPU  no  NA
+Black-breasted Puffbird  BBPU  no  NA
+Pied Puffbird  PIPU  no  NA
+White-whiskered Puffbird  WWPU  no  NA
+Lanceolated Monklet  LAMO  no  NA
+Gray-cheeked Nunlet  GCNU  no  NA
+White-fronted Nunbird  WFNU  no  NA
+Dusky-backed Jacamar  DBJA  no  NA
+Rufous-tailed Jacamar  RTJA  no  NA
+Great Jacamar  GJAC  no  NA
+Spot-crowned Barbet  SCBA  no  NA
+Red-headed Barbet  RHBA  no  NA
+Prong-billed Barbet  PBBA  no  NA
+Emerald Toucanet  EMTO  no  NA
+Collared Aracari  COAR  no  NA
+Fiery-billed Aracari  FBAR  no  NA
+Yellow-eared Toucanet  YETO  no  NA
+Keel-billed Toucan  KBTO  no  NA
+Black-mandibled Toucan  BMTO  no  NA
+Eurasian Wryneck  EUWR  no  NA
+Olivaceous Piculet  OLPI  no  NA
+Antillean Piculet  ANPI  no  NA
+Lewis's Woodpecker  LEWO  fo gr  NW SW
+Guadeloupe Woodpecker  GUWO  no  NA
+Puerto Rican Woodpecker  PRWO  no  NA
+Red-headed Woodpecker  RHWO  fo ur  NE SE
+Acorn Woodpecker  ACWO  fo  NW SW
+Golden-naped Woodpecker  GNWO  no  NA
+Black-cheeked Woodpecker  BCWO  no  NA
+Hispaniolan Woodpecker  HIWO  no  NA
+Jamaican Woodpecker  JAWO  no  NA
+Golden-cheeked Woodpecker  GCHW  no  NA
+Gray-breasted Woodpecker  GBWO  no  NA
+Yucatan Woodpecker  YUWO  no  NA
+Red-crowned Woodpecker  RCRW  no  NA
+Gila Woodpecker  GIWO  de fo  SW
+Hoffmann's Woodpecker  HOWO  no  NA
+Golden-fronted Woodpecker  GFWO  fo fw ur  SW
+Red-bellied Woodpecker  RBWO  fo ur  NE SE
+West Indian Woodpecker  WIWO  no  NA
+Williamson's Sapsucker  WISA  fo  NW SW
+Yellow-bellied Sapsucker  YBSA  fo  NE SE
+Red-naped Sapsucker  RNSA  fo  NW SW
+Red-breasted Sapsucker  RBSA  fo  NW SW
+Cuban Green Woodpecker  CGWO  no  NA
+Great Spotted Woodpecker  GSWO  no  NA
+Ladder-backed Woodpecker  LBWO  de fo  SW
+Nuttall's Woodpecker  NUWO  fo  SW
+Downy Woodpecker  DOWO  fo ur  NW NE SW SE
+Smoky-brown Woodpecker  SMBW  no  NA
+Hairy Woodpecker  HAWO  fo  NW NE SW SE
+Arizona Woodpecker  ARWO  fo mo  NA
+Strickland's Woodpecker  STCW  no  NA
+Red-cockaded Woodpecker  RCWO  fo  SE
+White-headed Woodpecker  WHWO  fo mo  NW SW
+American Three-toed Woodpecker  ATTW  fo  NW NE SW
+Black-backed Woodpecker  BBWO  fo  NW NE
+Red-rumped Woodpecker  RRWO  no  NA
+Rufous-winged Woodpecker  RWWO  no  NA
+Stripe-cheeked Woodpecker  SCHW  no  NA
+Golden-green Woodpecker  GGWO  no  NA
+Golden-olive Woodpecker  GOWO  no  NA
+Gray-crowned Woodpecker  GRCW  no  NA
+Spot-breasted Woodpecker  SBWP  no  NA
+Northern Flicker  NOFL  fo gr ur  NW NE SW SE
+Gilded Flicker  GIFL  de ur  SW
+Fernandina's Flicker  FEFL  no  NA
+Cinnamon Woodpecker  CIWO  no  NA
+Chestnut-colored Woodpecker  CCOW  no  NA
+Lineated Woodpecker  LIWO  no  NA
+Pileated Woodpecker  PIWO  fo  NW NE SE
+Crimson-bellied Woodpecker  CBWO  no  NA
+Crimson-crested Woodpecker  CCRW  no  NA
+Pale-billed Woodpecker  PBIW  no  NA
+Ivory-billed Woodpecker  IBWO  fo  NA
+Imperial Woodpecker  IMWO  no  NA
+Laughing Falcon  LAFA  no  NA
+Barred Forest-Falcon  BAFF  no  NA
+Slaty-backed Forest-Falcon  SBFF  no  NA
+Collared Forest-Falcon  COFF  no  NA
+Red-throated Caracara  RTCA  no  NA
+Crested Caracara  CRCA  co de gr  SW SE
+Guadalupe Caracara  GUCA  no  NA
+Yellow-headed Caracara  YHCA  no  NA
+Eurasian Kestrel  EUKE  de gr  NA
+American Kestrel  AMKE  de fo gr ur  NW NE SW SE
+Red-footed Falcon  RFFA  no  NA
+Merlin  MERL  fo  NW NE SW SE
+Eurasian Hobby  EHOB  fo gr  NA
+Aplomado Falcon  APFA  de gr  NA
+Bat Falcon  BAFA  no  NA
+Orange-breasted Falcon  OBFA  no  NA
+Gyrfalcon  GYRF  co gr mo  NW NE
+Peregrine Falcon  PEFA  co gr mo ur  NW NE SW SE
+Prairie Falcon  PRFA  gr mo  NW SW
+Painted Parakeet  PAIP  no  NA
+Sulphur-winged Parakeet  SWPA  no  NA
+Monk Parakeet  MOPA  fo ur  NE SE
+Carolina Parakeet  CAPA  no  NA
+Olive-throated Parakeet  OTPA  no  NA
+Orange-fronted Parakeet  OFPA  no  NA
+Brown-throated Parakeet  BTPA  no  NA
+Nanday Parakeet  NAPA  fo ur  NA
+Chestnut-fronted Macaw  CFMA  no  NA
+Military Macaw  MIMA  no  NA
+Great Green Macaw  GGMA  no  NA
+Red-and-green Macaw  RAGM  no  NA
+Scarlet Macaw  SCMA  no  NA
+Cuban Macaw  CUBM  no  NA
+Blue-and-yellow Macaw  BAYM  no  NA
+Green Parakeet  GREP  fo  NA
+Pacific Parakeet  PACP  no  NA
+Crimson-fronted Parakeet  CFPA  no  NA
+Cuban Parakeet  CPAK  no  NA
+Hispaniolan Parakeet  HPAK  no  NA
+Mitred Parakeet  MIPA  fo gr mo  NA
+Thick-billed Parrot  TBPA  fo  NA
+Maroon-fronted Parrot  MFPA  no  NA
+Barred Parakeet  BAPA  no  NA
+Green-rumped Parrotlet  GRUP  no  NA
+Mexican Parrotlet  MEXP  no  NA
+Spectacled Parrotlet  SPPA  no  NA
+Orange-chinned Parakeet  OCPA  no  NA
+White-winged Parakeet  WWPA  fo ur  NA
+Red-fronted Parrotlet  RFPA  no  NA
+Blue-fronted Parrotlet  BFPA  no  NA
+Brown-hooded Parrot  BHOP  no  NA
+Saffron-headed Parrot  SHPA  no  NA
+Blue-headed Parrot  BHEP  no  NA
+White-crowned Parrot  WCPA  no  NA
+White-fronted Parrot  WFPA  no  NA
+Yellow-lored Parrot  YLPA  no  NA
+Cuban Parrot  CPAT  no  NA
+Yellow-billed Parrot  YBPA  no  NA
+Hispaniolan Parrot  HPAT  no  NA
+Puerto Rican Parrot  PRPA  no  NA
+Black-billed Parrot  BBPA  no  NA
+Red-crowned Parrot  RCPA  fo ur  NA
+Lilac-crowned Parrot  LCPA  fo  NA
+Red-lored Parrot  RLPA  fo ur  NA
+Mealy Parrot  MEAP  no  NA
+Yellow-headed Parrot  YHPA  fo  NA
+Yellow-naped Parrot  YNPA  no  NA
+Yellow-crowned Parrot  YCPA  no  NA
+Red-necked Parrot  RNPA  no  NA
+St. Lucia Parrot  SLPA  no  NA
+St. Vincent Parrot  SVPA  no  NA
+Imperial Parrot  IMPA  no  NA
+Rose-ringed Parakeet  RRPA  fo gr sm  NA
+Rosy-faced Lovebird  RFLO  de gr  NA
+Budgerigar  BUDG  de gr  NA
+Sapayoa  SAPA  no  NA
+Fasciated Antshrike  FAAN  no  NA
+Great Antshrike  GANT  no  NA
+Barred Antshrike  BAAN  no  NA
+Black Antshrike  BLAN  no  NA
+Black-hooded Antshrike  BHOA  no  NA
+Black-crowned Antshrike  BCAS  no  NA
+Spiny-faced Antshrike  SFAN  no  NA
+Russet Antshrike  RUAN  no  NA
+Plain Antvireo  PLAN  no  NA
+Streak-crowned Antvireo  STCA  no  NA
+Spot-crowned Antvireo  SPCA  no  NA
+Moustached Antwren  MOAN  no  NA
+Pacific Antwren  PAAN  no  NA
+White-flanked Antwren  WFLA  no  NA
+Slaty Antwren  SLAN  no  NA
+Checker-throated Antwren  CTAN  no  NA
+Rufous-winged Antwren  RWAN  no  NA
+Dot-winged Antwren  DWAN  no  NA
+White-fringed Antwren  WFRA  no  NA
+Rufous-rumped Antwren  RRAN  no  NA
+Dusky Antbird  DUAN  no  NA
+Jet Antbird  JEAN  no  NA
+Bare-crowned Antbird  BACA  no  NA
+White-bellied Antbird  WBEA  no  NA
+Chestnut-backed Antbird  CBAN  no  NA
+Dull-mantled Antbird  DMAN  no  NA
+Zeledon's Antbird  ZEAN  no  NA
+Spotted Antbird  SPAN  no  NA
+Wing-banded Antbird  WBAA  no  NA
+Bicolored Antbird  BIAN  no  NA
+Ocellated Antbird  OCAN  no  NA
+Black-crowned Antpitta  BCAP  no  NA
+Scaled Antpitta  SCAA  no  NA
+Streak-chested Antpitta  SCHA  no  NA
+Thicket Antpitta  THAN  no  NA
+Ochre-breasted Antpitta  OBAN  no  NA
+Tacarcuna Tapaculo  TATA  no  NA
+Choco Tapaculo  CHOT  no  NA
+Silvery-fronted Tapaculo  SFTA  no  NA
+Black-faced Antthrush  BFAN  no  NA
+Black-headed Antthrush  BHEA  no  NA
+Rufous-breasted Antthrush  RBAN  no  NA
+Tawny-throated Leaftosser  TTLE  no  NA
+Gray-throated Leaftosser  GTLE  no  NA
+Scaly-throated Leaftosser  STLE  no  NA
+Olivaceous Woodcreeper  OLWO  no  NA
+Long-tailed Woodcreeper  LTWO  no  NA
+Ruddy Woodcreeper  RUWO  no  NA
+Tawny-winged Woodcreeper  TWWO  no  NA
+Plain-brown Woodcreeper  PBRW  no  NA
+Wedge-billed Woodcreeper  WBWO  no  NA
+Northern Barred-Woodcreeper  NOBW  no  NA
+Black-banded Woodcreeper  BBNW  no  NA
+Strong-billed Woodcreeper  SNBW  no  NA
+Cocoa Woodcreeper  COWO  no  NA
+Ivory-billed Woodcreeper  IBIW  no  NA
+Black-striped Woodcreeper  BSWO  no  NA
+Spotted Woodcreeper  SPWO  no  NA
+Straight-billed Woodcreeper  SGBW  no  NA
+Red-billed Scythebill  RBSC  no  NA
+Brown-billed Scythebill  BBSC  no  NA
+White-striped Woodcreeper  WSWO  no  NA
+Streak-headed Woodcreeper  SHWO  no  NA
+Spot-crowned Woodcreeper  SCRW  no  NA
+Plain Xenops  PLXE  no  NA
+Streaked Xenops  STXE  no  NA
+Buffy Tuftedcheek  BUTU  no  NA
+Sharp-tailed Streamcreeper  STST  no  NA
+Slaty-winged Foliage-gleaner  SWFG  no  NA
+Buff-fronted Foliage-gleaner  BFFG  no  NA
+Scaly-throated Foliage-gleaner  STFG  no  NA
+Lineated Foliage-gleaner  LIFG  no  NA
+Ruddy Foliage-gleaner  RUFG  no  NA
+Streak-breasted Treehunter  SBTR  no  NA
+Buff-throated Foliage-gleaner  BTFG  no  NA
+Striped Woodhaunter  STPW  no  NA
+Spotted Barbtail  SPBA  no  NA
+Beautiful Treerunner  BETR  no  NA
+Ruddy Treerunner  RUTR  no  NA
+Double-banded Graytail  DBGR  no  NA
+Red-faced Spinetail  RFSP  no  NA
+Coiba Spinetail  COSP  no  NA
+Pale-breasted Spinetail  PBSP  no  NA
+Slaty Spinetail  SLSP  no  NA
+Rufous-breasted Spinetail  RBSP  no  NA
+Yellow-bellied Tyrannulet  YBTY  no  NA
+Brown-capped Tyrannulet  BCTY  no  NA
+Northern Beardless-Tyrannulet  NOBT  fo  SW
+Southern Beardless-Tyrannulet  SOBT  no  NA
+Mouse-colored Tyrannulet  MCTY  no  NA
+Cocos Flycatcher  COCF  no  NA
+Yellow Tyrannulet  YETY  no  NA
+Yellow-crowned Tyrannulet  YCTY  no  NA
+Forest Elaenia  FOEL  no  NA
+Gray Elaenia  GRAE  no  NA
+Jamaican Elaenia  JAEL  no  NA
+Greenish Elaenia  GREL  no  NA
+Caribbean Elaenia  CAEL  no  NA
+Yellow-bellied Elaenia  YBEL  no  NA
+White-crested Elaenia  WCEL  no  NA
+Lesser Elaenia  LEEL  no  NA
+Mountain Elaenia  MOEL  no  NA
+Greater Antillean Elaenia  GAEL  no  NA
+Torrent Tyrannulet  TOTY  no  NA
+Olive-striped Flycatcher  OSTF  no  NA
+Ochre-bellied Flycatcher  OBFL  no  NA
+Sepia-capped Flycatcher  SECF  no  NA
+Slaty-capped Flycatcher  SLCF  no  NA
+Yellow-green Tyrannulet  YGTY  no  NA
+Rufous-browed Tyrannulet  RBTY  no  NA
+Rough-legged Tyrannulet  RLTY  no  NA
+Sooty-headed Tyrannulet  SHTY  no  NA
+Paltry Tyrannulet  PATY  no  NA
+Northern Scrub-Flycatcher  NOSF  no  NA
+Bronze-olive Pygmy-Tyrant  BOPT  no  NA
+Black-capped Pygmy-Tyrant  BPYT  no  NA
+Scale-crested Pygmy-Tyrant  SCPT  no  NA
+Pale-eyed Pygmy-Tyrant  PEPT  no  NA
+Northern Bentbill  NOBE  no  NA
+Southern Bentbill  SOBE  no  NA
+Slate-headed Tody-Flycatcher  SHTF  no  NA
+Common Tody-Flycatcher  COTF  no  NA
+Black-headed Tody-Flycatcher  BHTF  no  NA
+Brownish Twistwing  BRTW  no  NA
+Eye-ringed Flatbill  ERFL  no  NA
+Olivaceous Flatbill  OLFL  no  NA
+Yellow-olive Flycatcher  YOFL  no  NA
+Yellow-margined Flycatcher  YMFL  no  NA
+Yellow-breasted Flycatcher  YBRF  no  NA
+Stub-tailed Spadebill  STTS  no  NA
+White-throated Spadebill  WTRS  no  NA
+Golden-crowned Spadebill  GCRS  no  NA
+Royal Flycatcher  ROFL  no  NA
+Ruddy-tailed Flycatcher  RDTF  no  NA
+Tawny-breasted Flycatcher  TBFL  no  NA
+Sulphur-rumped Flycatcher  SRFL  no  NA
+Black-tailed Flycatcher  BTFL  no  NA
+Bran-colored Flycatcher  BCOF  no  NA
+Euler's Flycatcher  EUFL  no  NA
+Tawny-chested Flycatcher  TCFL  no  NA
+Black-billed Flycatcher  BLBF  no  NA
+Belted Flycatcher  BEFL  no  NA
+Pileated Flycatcher  PILF  no  NA
+Tufted Flycatcher  TUFL  no  NA
+Olive-sided Flycatcher  OSFL  fo fw  NW NE SW SE
+Greater Pewee  GRPE  fo  SW
+Dark Pewee  DAPE  no  NA
+Ochraceous Pewee  OCPE  no  NA
+Western Wood-Pewee  WEWP  fo  NW SW
+Eastern Wood-Pewee  EAWP  fo ur  NE SE
+Tropical Pewee  TROP  no  NA
+Cuban Pewee  CUPE  fo  NA
+Jamaican Pewee  JAPE  no  NA
+Hispaniolan Pewee  HIPE  no  NA
+Lesser Antillean Pewee  LAPE  no  NA
+Yellow-bellied Flycatcher  YBFL  fo sm  NE SE
+Acadian Flycatcher  ACFL  fo sm  NE SE
+Alder Flycatcher  ALFL  fo fw sm  NW NE SE
+Willow Flycatcher  WIFL  fo fw  NW NE SW SE
+White-throated Flycatcher  WTFL  no  NA
+Least Flycatcher  LEFL  fo gr fw sm ur  NW NE SW SE
+Hammond's Flycatcher  HAFL  fo  NW SW
+Gray Flycatcher  GRFL  fo  NW SW
+Dusky Flycatcher  DUFL  fo  NW SW
+Pine Flycatcher  PINF  no  NA
+Pacific-slope Flycatcher  PSFL  fo mo  NW SW
+Cordilleran Flycatcher  COFL  fo  NW SW
+Yellowish Flycatcher  YEFL  no  NA
+Buff-breasted Flycatcher  BBFL  fo  NA
+Black-capped Flycatcher  BCAF  no  NA
+Black Phoebe  BLPH  gr fw ur  SW
+Eastern Phoebe  EAPH  fo gr fw sm ur  NE SE
+Say's Phoebe  SAPH  gr  NW SW
+Vermilion Flycatcher  VEFL  fo  SW SE
+Pied Water-Tyrant  PIWT  no  NA
+Long-tailed Tyrant  LTTY  no  NA
+Cattle Tyrant  CATY  no  NA
+Bright-rumped Attila  BRAT  no  NA
+Sirystes  SIRY  no  NA
+Rufous Mourner  RMOU  no  NA
+Yucatan Flycatcher  YUFL  no  NA
+Sad Flycatcher  SAFL  no  NA
+Dusky-capped Flycatcher  DCFL  fo mo  NA
+Panama Flycatcher  PAFL  no  NA
+Ash-throated Flycatcher  ATFL  de fo  NW SW
+Nutting's Flycatcher  NUFL  fo gr  NA
+Great Crested Flycatcher  GCFL  fo ur  NE SE
+Brown-crested Flycatcher  BCFL  de fo  SW
+Grenada Flycatcher  GFLY  no  NA
+Rufous-tailed Flycatcher  RFTF  no  NA
+La Sagra's Flycatcher  LSFL  fo  NA
+Stolid Flycatcher  STOF  no  NA
+Puerto Rican Flycatcher  PRFL  no  NA
+Lesser Antillean Flycatcher  LAFL  no  NA
+Flammulated Flycatcher  FLFL  no  NA
+Lesser Kiskadee  LEKI  no  NA
+Great Kiskadee  GKIS  fo gr fw ur  SW
+Boat-billed Flycatcher  BOBF  no  NA
+Rusty-margined Flycatcher  RMFL  no  NA
+Social Flycatcher  SOFL  no  NA
+Gray-capped Flycatcher  GCAF  no  NA
+White-ringed Flycatcher  WRFL  no  NA
+Golden-bellied Flycatcher  GBFL  no  NA
+Golden-crowned Flycatcher  GOCF  no  NA
+Streaked Flycatcher  STRF  no  NA
+Sulphur-bellied Flycatcher  SBFL  fo mo  SW
+Piratic Flycatcher  PIFL  fo  NA
+Variegated Flycatcher  VAFL  fo  NA
+Crowned Slaty Flycatcher  CSFL  no  NA
+Tropical Kingbird  TRKI  fo fw  SW
+Couch's Kingbird  COKI  fo sm  SW
+Cassin's Kingbird  CAKI  fo gr  SW
+Thick-billed Kingbird  TBKI  fo mo  SW
+Western Kingbird  WEKI  gr ur  NW SW
+Eastern Kingbird  EAKI  fo ur  NW NE SE
+Gray Kingbird  GRAK  co ur  SE
+Loggerhead Kingbird  LOKI  fo  NA
+Giant Kingbird  GIKI  no  NA
+Scissor-tailed Flycatcher  STFL  gr ur  SW SE
+Fork-tailed Flycatcher  FTFL  gr  NA
+Gray-headed Piprites  GHPI  no  NA
+Northern Schiffornis  NOSC  no  NA
+Russet-winged Schiffornis  RWSC  no  NA
+Speckled Mourner  SPMO  no  NA
+Masked Tityra  MATI  no  NA
+Black-crowned Tityra  BCRT  no  NA
+Barred Becard  BABE  no  NA
+Cinereous Becard  CIRB  no  NA
+Cinnamon Becard  CIMB  no  NA
+White-winged Becard  WWBE  no  NA
+Black-and-white Becard  BAWB  no  NA
+Gray-collared Becard  GCBE  no  NA
+Rose-throated Becard  RTBE  fo mo  NA
+One-colored Becard  OCBE  no  NA
+Jamaican Becard  JABE  no  NA
+Purple-throated Fruitcrow  PTFR  no  NA
+Bare-necked Umbrellabird  BNUM  no  NA
+Lovely Cotinga  LOCO  no  NA
+Turquoise Cotinga  TUCO  no  NA
+Blue Cotinga  BLCO  no  NA
+Rufous Piha  RUFP  no  NA
+Three-wattled Bellbird  TWBE  no  NA
+Black-tipped Cotinga  BTCO  no  NA
+Yellow-billed Cotinga  YBCO  no  NA
+Snowy Cotinga  SNCO  no  NA
+Lance-tailed Manakin  LATM  no  NA
+Long-tailed Manakin  LOTM  no  NA
+White-ruffed Manakin  WRMA  no  NA
+Green Manakin  GMAK  no  NA
+Blue-crowned Manakin  BCRM  no  NA
+White-collared Manakin  WCOM  no  NA
+Orange-collared Manakin  OCMA  no  NA
+Golden-collared Manakin  GCMA  no  NA
+White-crowned Manakin  WCRM  no  NA
+Red-capped Manakin  RCMA  no  NA
+Golden-headed Manakin  GHMA  no  NA
+Sharpbill  SHAR  no  NA
+Brown Shrike  BROS  fo gr  NA
+Loggerhead Shrike  LOSH  de fo gr  NW SW SE
+Northern Shrike  NSHR  gr  NW NE
+Slaty Vireo  SLVI  no  NA
+White-eyed Vireo  WEVI  fo ur  NE SE
+Thick-billed Vireo  TBVI  sm  NA
+Mangrove Vireo  MAVI  no  NA
+Cozumel Vireo  COVI  no  NA
+San Andres Vireo  SAVI  no  NA
+Jamaican Vireo  JAVI  no  NA
+Cuban Vireo  CUVI  no  NA
+Puerto Rican Vireo  PRVI  no  NA
+Flat-billed Vireo  FBVI  no  NA
+Bell's Vireo  BEVI  fo  NE SW SE
+Black-capped Vireo  BCVI  gr sm  SW
+Dwarf Vireo  DWVI  no  NA
+Gray Vireo  GRVI  sm mo  SW
+Blue Mountain Vireo  BMVI  no  NA
+Yellow-throated Vireo  YTVI  fo sm ur  NE SE
+Plumbeous Vireo  PLVI  fo  NW SW
+Cassin's Vireo  CAVI  fo mo  NW SW
+Blue-headed Vireo  BHVI  fo  NE SE
+Yellow-winged Vireo  YWVI  no  NA
+Hutton's Vireo  HUVI  fo  NW SW
+Golden Vireo  GOVI  no  NA
+Warbling Vireo  WAVI  fo  NW NE SW SE
+Brown-capped Vireo  BCAV  no  NA
+Philadelphia Vireo  PHVI  fo  NE SE
+Red-eyed Vireo  REVI  fo ur  NW NE SE
+Yellow-green Vireo  YGVI  fo sm  SW
+Black-whiskered Vireo  BWVI  fo sm  SE
+Yucatan Vireo  YUVI  no  NA
+Scrub Greenlet  SCRG  no  NA
+Tawny-crowned Greenlet  TCGR  no  NA
+Golden-fronted Greenlet  GFGR  no  NA
+Lesser Greenlet  LESG  no  NA
+Chestnut-sided Shrike-Vireo  CSSV  no  NA
+Green Shrike-Vireo  GRSV  no  NA
+Yellow-browed Shrike-Vireo  YBSV  no  NA
+Rufous-browed Peppershrike  RBPE  no  NA
+Gray Jay  GRAJ  fo  NW NE
+White-throated Jay  WTJA  no  NA
+Dwarf Jay  DWJA  no  NA
+Black-throated Jay  BTJA  no  NA
+Silvery-throated Jay  STHJ  no  NA
+Azure-hooded Jay  AHJA  no  NA
+Black-throated Magpie-Jay  BTMJ  no  NA
+White-throated Magpie-Jay  WTMJ  no  NA
+Brown Jay  BRJA  co fo  NA
+Tufted Jay  TUJA  no  NA
+Black-chested Jay  BCHJ  no  NA
+Green Jay  GREJ  fo mo  SW
+Bushy-crested Jay  BCRJ  no  NA
+San Blas Jay  SBJA  no  NA
+Yucatan Jay  YUJA  no  NA
+Purplish-backed Jay  PBJA  no  NA
+Pinyon Jay  PIJA  fo  NW SW
+Steller's Jay  STJA  fo  NW SW
+Blue Jay  BLJA  fo gr ur  NW NE SE
+Florida Scrub-Jay  FLSJ  gr sm  SE
+Island Scrub-Jay  ISSJ  de gr  SW
+Western Scrub-Jay  WESJ  fo ur  NW SW
+Transvolcanic Jay  TRJA  no  NA
+Mexican Jay  MEJA  fo  SW
+Unicolored Jay  UNJA  no  NA
+Clark's Nutcracker  CLNU  fo mo  NW SW
+Black-billed Magpie  BBMA  fo gr  NW SW
+Yellow-billed Magpie  YBMA  fo ur  SW
+Eurasian Jackdaw  EUJA  mo ur  NA
+American Crow  AMCR  co fo gr ur  NW NE SW SE
+Northwestern Crow  NOCR  co fo gr ur  NW
+Palm Crow  PACR  no  NA
+Cuban Crow  CUCR  no  NA
+White-necked Crow  WNCR  no  NA
+Jamaican Crow  JACR  no  NA
+Tamaulipas Crow  TACR  gr sm ur  NA
+Sinaloa Crow  SICR  no  NA
+Fish Crow  FICR  co fw ur  NE SE
+Hawaiian Crow  HCRO  fo  NA
+Chihuahuan Raven  CHRA  de gr  SW
+Common Raven  CORA  co de fo mo  NW NE SW
+Kauai Elepaio  KAEL  fo  NA
+Oahu Elepaio  OAEL  fo  NA
+Hawaii Elepaio  HAEL  fo  NA
+Sky Lark  SKLA  gr  NA
+Horned Lark  HOLA  gr ur  NW NE SW SE
+Purple Martin  PUMA  fo gr ur  NW NE SW SE
+Cuban Martin  CUMA  no  NA
+Caribbean Martin  CAMA  no  NA
+Sinaloa Martin  SIMA  no  NA
+Gray-breasted Martin  GYBM  no  NA
+Southern Martin  SOMA  no  NA
+Brown-chested Martin  BCMA  gr  NA
+Tree Swallow  TRES  gr fw sm  NW NE SW SE
+Mangrove Swallow  MANS  no  NA
+Golden Swallow  GOSW  no  NA
+Violet-green Swallow  VGSW  fo mo  NW SW
+Bahama Swallow  BAHS  fo gr ur  NA
+Blue-and-white Swallow  BAWS  no  NA
+Black-capped Swallow  BCSW  no  NA
+White-thighed Swallow  WTGS  no  NA
+Northern Rough-winged Swallow  NRWS  gr  NW NE SW SE
+Southern Rough-winged Swallow  SRWS  no  NA
+Bank Swallow  BANS  co fw  NW NE SW SE
+Cliff Swallow  CLSW  gr fw sm ur  NW NE SW SE
+Cave Swallow  CASW  gr  NE SW SE
+Barn Swallow  BARS  gr fw sm ur  NW NE SW SE
+Common House-Martin  COHM  fo fw mo ur  NA
+Carolina Chickadee  CACH  fo ur  SE
+Black-capped Chickadee  BCCH  fo gr ur  NW NE
+Mountain Chickadee  MOCH  fo  NW SW
+Mexican Chickadee  MECH  fo mo  NA
+Chestnut-backed Chickadee  CBCH  fo  NW SW
+Boreal Chickadee  BOCH  fo  NW NE
+Gray-headed Chickadee  GHCH  fo  NA
+Bridled Titmouse  BRTI  fo  SW
+Oak Titmouse  OATI  fo  SW
+Juniper Titmouse  JUTI  fo  SW
+Tufted Titmouse  TUTI  fo ur  NE SE
+Black-crested Titmouse  BCTI  fo ur  SW
+Verdin  VERD  de  SW
+Bushtit  BUSH  fo  NW SW
+Red-breasted Nuthatch  RBNU  fo  NW NE SW SE
+White-breasted Nuthatch  WBNU  fo  NW NE SW SE
+Pygmy Nuthatch  PYNU  fo  NW SW
+Brown-headed Nuthatch  BHNU  fo  SE
+Brown Creeper  BRCR  fo  NW NE SW SE
+Rock Wren  ROWR  mo ur  NW SW
+Nightingale Wren  NIWR  no  NA
+Scaly-breasted Wren  SCBW  no  NA
+Canyon Wren  CANW  mo ur  NW SW
+Sumichrast's Wren  SUWR  no  NA
+Nava's Wren  NAWR  no  NA
+Zapata Wren  ZAWR  no  NA
+House Wren  HOWR  fo sm ur  NW NE SW SE
+Socorro Wren  SOCW  no  NA
+Clarion Wren  CLWR  no  NA
+Rufous-browed Wren  RBWW  no  NA
+Ochraceous Wren  OCWR  no  NA
+Pacific Wren  PAWR  fo  NW SW
+Winter Wren  WIWR  fo  NE SE
+Timberline Wren  TIWR  no  NA
+Sedge Wren  SEWR  gr sm  NE SE
+Marsh Wren  MAWR  sm  NW NE SW SE
+Carolina Wren  CARW  de fo mo ur  NW NE SW SE
+Bewick's Wren  BEWR  fo gr  NW SW SE
+White-headed Wren  WHWR  no  NA
+Band-backed Wren  BABW  no  NA
+Gray-barred Wren  GBWR  no  NA
+Giant Wren  GIWR  no  NA
+Bicolored Wren  BIWR  no  NA
+Rufous-naped Wren  RNAW  no  NA
+Spotted Wren  SPWR  no  NA
+Boucard's Wren  BOWR  no  NA
+Yucatan Wren  YUWR  no  NA
+Cactus Wren  CACW  de sm ur  SW
+Sooty-headed Wren  SHWR  no  NA
+Black-throated Wren  BTWR  no  NA
+Rufous-breasted Wren  RBSW  no  NA
+Spot-breasted Wren  SBSW  no  NA
+Happy Wren  HAWR  no  NA
+Black-bellied Wren  BBEW  no  NA
+Rufous-and-white Wren  RAWW  no  NA
+Sinaloa Wren  SIWR  no  NA
+Banded Wren  BANW  no  NA
+Stripe-throated Wren  STWR  no  NA
+Stripe-breasted Wren  SIBW  no  NA
+Plain Wren  PLWR  no  NA
+Bay Wren  BAYW  no  NA
+Riverside Wren  RIWR  no  NA
+Buff-breasted Wren  BBRW  no  NA
+White-bellied Wren  WBWR  no  NA
+White-breasted Wood-Wren  WBWW  no  NA
+Gray-breasted Wood-Wren  GBWW  no  NA
+Song Wren  SONW  no  NA
+Tawny-faced Gnatwren  TFGN  no  NA
+Long-billed Gnatwren  LBGN  no  NA
+Blue-gray Gnatcatcher  BGGN  fo  NW NE SW SE
+Cuban Gnatcatcher  CUGN  no  NA
+California Gnatcatcher  CAGN  co de  SW
+Black-tailed Gnatcatcher  BTGN  de  SW
+Black-capped Gnatcatcher  BCGN  de  NA
+White-lored Gnatcatcher  WLGN  no  NA
+Tropical Gnatcatcher  TRGN  no  NA
+Slate-throated Gnatcatcher  STGN  no  NA
+American Dipper  AMDI  fw  NW SW
+Red-vented Bulbul  RVBU  fo gr ur  NA
+Red-whiskered Bulbul  RWBU  sm ur  NA
+Golden-crowned Kinglet  GCKI  fo  NW NE SW SE
+Ruby-crowned Kinglet  RCKI  fo  NW NE SW SE
+Japanese Bush-Warbler  JABW  de fo  NA
+Willow Warbler  WILW  no  NA
+Common Chiffchaff  CCHI  no  NA
+Wood Warbler  WOWA  no  NA
+Dusky Warbler  DUWA  fo mo  NA
+Pallas's Leaf Warbler  PLEW  no  NA
+Yellow-browed Warbler  YBWA  no  NA
+Arctic Warbler  ARWA  fo gr  NA
+Kamchatka Leaf Warbler  KLWA  no  NA
+Lesser Whitethroat  LEWH  no  NA
+Wrentit  WREN  gr  NW SW
+Japanese White-eye  JAWE  fo ur  NA
+Greater Necklaced Laughingthrush  GNLA  fo  NA
+Hwamei  HWAM  de fo  NA
+Red-billed Leiothrix  RBLE  fo  NA
+Millerbird  MILL  no  NA
+Sedge Warbler  SEWA  no  NA
+Black-capped Donacobius  BCDO  no  NA
+Middendorff's Grasshopper-Warbler  MIGW  co fo sm  NA
+Lanceolated Warbler  LANW  gr  NA
+Gray-streaked Flycatcher  GSFL  fo gr  NA
+Asian Brown Flycatcher  ABFL  fo  NA
+Spotted Flycatcher  SPFL  no  NA
+Dark-sided Flycatcher  DSFL  fo  NA
+White-rumped Shama  WRSH  fo ur  NA
+Rufous-tailed Robin  RTRO  no  NA
+Siberian Rubythroat  SIRU  fo gr sm  NA
+Bluethroat  BLUE  gr sm  NA
+Siberian Blue Robin  SBRO  no  NA
+Red-flanked Bluetail  RFBL  fo  NA
+Narcissus Flycatcher  NAFL  fo sm  NA
+Mugimaki Flycatcher  MUFL  no  NA
+Taiga Flycatcher  TAFL  no  NA
+Common Redstart  CRET  no  NA
+Northern Wheatear  NOWH  gr mo  NE
+Stonechat  STON  fo gr sm  NA
+Eastern Bluebird  EABL  fo  NE SE
+Western Bluebird  WEBL  fo  NW SW
+Mountain Bluebird  MOBL  gr mo  NW SW
+Townsend's Solitaire  TOSO  fo mo  NW SW
+Brown-backed Solitaire  BBSO  no  NA
+Cuban Solitaire  CUSO  no  NA
+Rufous-throated Solitaire  RTSO  no  NA
+Black-faced Solitaire  BFSO  no  NA
+Varied Solitaire  VASO  no  NA
+Slate-colored Solitaire  SCSO  no  NA
+Kamao  KAMA  no  NA
+Amaui  AMAU  no  NA
+Olomao  OLOM  no  NA
+Omao  OMAO  fo  NA
+Puaiohi  PUAI  fo  NA
+Black-billed Nightingale-Thrush  BBNT  no  NA
+Orange-billed Nightingale-Thrush  OBNT  no  NA
+Slaty-backed Nightingale-Thrush  SBNT  no  NA
+Russet Nightingale-Thrush  RUNT  no  NA
+Ruddy-capped Nightingale-Thrush  RCNT  no  NA
+Black-headed Nightingale-Thrush  BHNT  no  NA
+Spotted Nightingale-Thrush  SPNT  no  NA
+Veery  VEER  fo  NW NE SE
+Gray-cheeked Thrush  GCTH  fo sm mo  NE SE
+Bicknell's Thrush  BITH  fo mo  NE
+Swainson's Thrush  SWTH  fo sm  NW NE SW SE
+Hermit Thrush  HETH  fo  NW NE SW SE
+Wood Thrush  WOTH  fo ur  NE SE
+Eurasian Blackbird  EUBL  no  NA
+Eyebrowed Thrush  EYTH  fo  NA
+Dusky Thrush  DUTH  fo gr ur  NA
+Fieldfare  FIEL  fo ur  NA
+Redwing  REDW  fo gr  NA
+Song Thrush  SOTH  no  NA
+Sooty Thrush  SOOT  no  NA
+Black Thrush  BLTH  no  NA
+Mountain Thrush  MOTH  no  NA
+Cocoa Thrush  COCT  no  NA
+Pale-vented Thrush  PVTH  no  NA
+Clay-colored Thrush  CCTH  gr ur  NA
+Spectacled Thrush  SPTH  no  NA
+White-eyed Thrush  WETH  no  NA
+White-throated Thrush  WTTH  fo  NA
+Rufous-backed Robin  RBRO  fo ur  SW
+Rufous-collared Robin  RCRO  no  NA
+American Robin  AMRO  fo gr ur  NW NE SW SE
+La Selle Thrush  LSTH  no  NA
+White-chinned Thrush  WCTH  no  NA
+Grand Cayman Thrush  GCAT  no  NA
+Red-legged Thrush  RLTH  no  NA
+Forest Thrush  FOTH  no  NA
+Varied Thrush  VATH  fo fw  NW NE SW
+Aztec Thrush  AZTH  fo  NA
+Blue Mockingbird  BLMO  fo  NA
+Blue-and-white Mockingbird  BAWM  no  NA
+Black Catbird  BLCA  no  NA
+Gray Catbird  GRCA  fo sm ur  NW NE SW SE
+White-breasted Thrasher  WBTH  no  NA
+Scaly-breasted Thrasher  SBTH  no  NA
+Pearly-eyed Thrasher  PETH  no  NA
+Brown Trembler  BRTR  no  NA
+Gray Trembler  GRTR  no  NA
+Curve-billed Thrasher  CBTH  de ur  SW
+Ocellated Thrasher  OCTH  no  NA
+Brown Thrasher  BRTH  fo ur  NE SE
+Long-billed Thrasher  LBTH  fo gr  SW
+Cozumel Thrasher  COZT  no  NA
+Bendire's Thrasher  BETH  de gr ur  SW
+Gray Thrasher  GRAT  no  NA
+California Thrasher  CATH  de fo mo ur  SW
+Le Conte's Thrasher  LCTH  de  SW
+Crissal Thrasher  CRTH  de sm  SW
+Sage Thrasher  SATH  mo  NW SW
+Bahama Mockingbird  BAMO  fo  NA
+Socorro Mockingbird  SOMO  no  NA
+Tropical Mockingbird  TRMO  no  NA
+Northern Mockingbird  NOMO  de gr ur  NW NE SW SE
+European Starling  EUST  gr ur  NW NE SW SE
+Common Myna  COMY  ur  SE
+Hill Myna  HIMY  ur  SE
+Siberian Accentor  SIAC  fo  NA
+Eastern Yellow Wagtail  EYWA  gr fw ur  NA
+Citrine Wagtail  CIWA  no  NA
+Gray Wagtail  GRAW  fo fw mo  NA
+White Wagtail  WHWA  co de gr fw  NA
+Tree Pipit  TRPI  no  NA
+Olive-backed Pipit  OBPI  co gr fw sm  NA
+Pechora Pipit  PEPI  fo gr sm  NA
+Red-throated Pipit  RTPI  gr fw  SW
+American Pipit  AMPI  co gr mo  NW NE SW SE
+Sprague's Pipit  SPPI  gr  NW SW
+Yellowish Pipit  YEPI  no  NA
+Bohemian Waxwing  BOWA  fo sm ur  NW NE
+Cedar Waxwing  CEDW  fo ur  NW NE SW SE
+Kauai Oo  KAOO  no  NA
+Oahu Oo  OAOO  no  NA
+Bishop's Oo  BIOO  no  NA
+Hawaii Oo  HAOO  no  NA
+Kioea  KIOE  no  NA
+Black-and-yellow Silky-flycatcher  BAYS  no  NA
+Gray Silky-flycatcher  GRSF  no  NA
+Long-tailed Silky-flycatcher  LTSF  no  NA
+Phainopepla  PHAI  co de fo  SW
+Palmchat  PALM  no  NA
+Olive Warbler  OLWA  fo mo  SW
+Lapland Longspur  LALO  co gr  NW NE
+Chestnut-collared Longspur  CCLO  gr  NW SW
+Smith's Longspur  SMLO  fo gr  NE
+McCown's Longspur  MCLO  gr  NW SW
+Snow Bunting  SNBU  co sm mo  NW NE
+McKay's Bunting  MKBU  co  NA
+Ovenbird  OVEN  fo  NW NE SE
+Worm-eating Warbler  WEWA  fo  NE SE
+Louisiana Waterthrush  LOWA  fo sm mo  NE SE
+Northern Waterthrush  NOWA  fo fw  NW NE SE
+Bachman's Warbler  BAWA  fo  NA
+Golden-winged Warbler  GWWA  gr  NE SE
+Blue-winged Warbler  BWWA  fo gr fw  NE SE
+Black-and-white Warbler  BAWW  fo gr ur  NW NE SW SE
+Prothonotary Warbler  PROW  fo sm  NE SE
+Swainson's Warbler  SWWA  co gr mo  SE
+Crescent-chested Warbler  CCWA  mo  NA
+Flame-throated Warbler  FTHW  no  NA
+Tennessee Warbler  TEWA  fo  NE SE
+Orange-crowned Warbler  OCWA  fo  NW NE SW SE
+Colima Warbler  COLW  mo  NA
+Lucy's Warbler  LUWA  de mo  SW
+Nashville Warbler  NAWA  fo  NW NE SW SE
+Virginia's Warbler  VIWA  fo  SW
+Semper's Warbler  SEMW  no  NA
+Connecticut Warbler  CONW  fo  NE SE
+Gray-crowned Yellowthroat  GCYE  gr  NA
+Masked Yellowthroat  MAYE  no  NA
+MacGillivray's Warbler  MGWA  fo  NW SW
+Mourning Warbler  MOWA  fo  NE SE
+Kentucky Warbler  KEWA  fo  NE SE
+Olive-crowned Yellowthroat  OCYE  no  NA
+Black-polled Yellowthroat  BPYE  no  NA
+Belding's Yellowthroat  BEYE  no  NA
+Bahama Yellowthroat  BAYE  no  NA
+Altamira Yellowthroat  ALYE  no  NA
+Common Yellowthroat  COYE  gr sm  NW NE SW SE
+Hooded Yellowthroat  HOYE  no  NA
+Whistling Warbler  WHIW  no  NA
+Plumbeous Warbler  PLUW  no  NA
+Elfin-woods Warbler  EWWA  no  NA
+Arrowhead Warbler  ARRW  no  NA
+Hooded Warbler  HOWA  fo  NE SE
+American Redstart  AMRE  fo  NW NE SW SE
+Kirtland's Warbler  KIWA  fo  NE
+Cape May Warbler  CMWA  fo ur  NE SE
+Cerulean Warbler  CERW  fo fw  NE SE
+Northern Parula  NOPA  fo fw  NE SE
+Tropical Parula  TRPA  fo fw  NA
+Magnolia Warbler  MAWA  fo  NE SE
+Bay-breasted Warbler  BBWA  fo  NE SE
+Blackburnian Warbler  BLBW  fo mo  NE SE
+Yellow Warbler  YEWA  fo gr sm ur  NW NE SW SE
+Chestnut-sided Warbler  CSWA  fo mo  NE SE
+Blackpoll Warbler  BLPW  fo  NE SE
+Black-throated Blue Warbler  BTBW  fo mo  NE SE
+Palm Warbler  PAWA  fo gr sm  NE SE
+Olive-capped Warbler  OCAW  no  NA
+Pine Warbler  PIWA  fo  NE SE
+Yellow-rumped Warbler  YRWA  fo  NW NE SW SE
+Yellow-throated Warbler  YTWA  fo  NE SE
+Bahama Warbler  BAHW  no  NA
+Vitelline Warbler  VITW  no  NA
+Prairie Warbler  PRAW  fo gr sm  NE SE
+Adelaide's Warbler  ADWA  no  NA
+Barbuda Warbler  BARW  no  NA
+St. Lucia Warbler  SLWA  no  NA
+Grace's Warbler  GRWA  fo  SW
+Black-throated Gray Warbler  BTYW  fo  NW SW
+Townsend's Warbler  TOWA  fo  NW SW
+Hermit Warbler  HEWA  fo  NW SW
+Golden-cheeked Warbler  GCWA  fo  SW
+Black-throated Green Warbler  BTNW  fo mo  NE SE
+Buff-rumped Warbler  BURW  no  NA
+Fan-tailed Warbler  FTWA  fo mo  NA
+Rufous-capped Warbler  RCWA  fo mo  NA
+Black-cheeked Warbler  BCWA  no  NA
+Pirre Warbler  PIRW  no  NA
+Golden-browed Warbler  GBWA  no  NA
+Golden-crowned Warbler  GCRW  fo  NA
+Three-striped Warbler  TSWA  no  NA
+Canada Warbler  CAWA  fo  NE SE
+Wilson's Warbler  WIWA  fo  NW NE SW SE
+Red-faced Warbler  RFWA  fo  SW
+Red Warbler  REWA  no  NA
+Pink-headed Warbler  PHWA  no  NA
+Painted Redstart  PARE  fo mo  SW
+Slate-throated Redstart  STRE  fo  NA
+Collared Redstart  COLR  no  NA
+Wrenthrush  WRET  no  NA
+Yellow-breasted Chat  YBCH  gr sm  NW NE SW SE
+White-winged Warbler  WWWA  no  NA
+Green-tailed Warbler  GTWA  no  NA
+Yellow-headed Warbler  YHWA  no  NA
+Oriente Warbler  ORWA  no  NA
+Blue-and-gold Tanager  BAGT  no  NA
+Red-crested Cardinal  RCCA  fo gr ur  NA
+Yellow-billed Cardinal  YBCA  fo fw sm  NA
+Blue-gray Tanager  BGTA  no  NA
+Yellow-winged Tanager  YWTA  no  NA
+Palm Tanager  PALT  no  NA
+Gray-and-gold Tanager  GAGT  no  NA
+Azure-rumped Tanager  ARTA  no  NA
+Lesser Antillean Tanager  LATA  no  NA
+Golden-hooded Tanager  GHOT  no  NA
+Speckled Tanager  SPTA  no  NA
+Green-naped Tanager  GNTA  no  NA
+Spangle-cheeked Tanager  SCHT  no  NA
+Plain-colored Tanager  PCTA  no  NA
+Rufous-winged Tanager  RWTA  no  NA
+Bay-headed Tanager  BHTA  no  NA
+Emerald Tanager  EMTA  no  NA
+Silver-throated Tanager  STTA  no  NA
+White-eared Conebill  WECO  no  NA
+Saffron Finch  SAFI  fo gr  NA
+Grassland Yellow-Finch  GRYF  no  NA
+Slaty Finch  SLFI  no  NA
+Peg-billed Finch  PBFI  no  NA
+Cinnamon-bellied Flowerpiercer  CBFL  no  NA
+Slaty Flowerpiercer  SLFL  no  NA
+Green Honeycreeper  GRHO  no  NA
+Black-and-yellow Tanager  BAYT  no  NA
+Sulphur-rumped Tanager  SRTA  no  NA
+Scarlet-browed Tanager  SBTA  no  NA
+Yellow-backed Tanager  YBTA  no  NA
+Blue-black Grassquit  BGRA  no  NA
+Gray-headed Tanager  GHET  no  NA
+White-shouldered Tanager  WSTA  no  NA
+Tawny-crested Tanager  TCTA  no  NA
+White-lined Tanager  WLTA  no  NA
+Black-throated Shrike-Tanager  BTST  no  NA
+White-throated Shrike-Tanager  WTST  no  NA
+Crimson-collared Tanager  CCTA  no  NA
+Flame-rumped Tanager  FRTA  no  NA
+Passerini's Tanager  PAST  no  NA
+Cherrie's Tanager  CHET  no  NA
+Crimson-backed Tanager  CBTA  no  NA
+Swallow Tanager  SWTA  no  NA
+Shining Honeycreeper  SHHO  no  NA
+Purple Honeycreeper  PUHO  no  NA
+Red-legged Honeycreeper  RLHO  no  NA
+Scarlet-thighed Dacnis  STDA  no  NA
+Blue Dacnis  BLDA  no  NA
+Viridian Dacnis  VIDA  no  NA
+Bananaquit  BANA  fo ur  NA
+Cuban Grassquit  CUGR  no  NA
+Yellow-faced Grassquit  YFGR  gr  NA
+Black-faced Grassquit  BFGR  gr  NA
+Orangequit  ORAN  no  NA
+Puerto Rican Bullfinch  PRBU  no  NA
+Greater Antillean Bullfinch  GABU  no  NA
+Lesser Antillean Bullfinch  LANB  no  NA
+Barbados Bullfinch  BABU  no  NA
+Cuban Bullfinch  CUBU  no  NA
+Yellow-shouldered Grassquit  YSGR  no  NA
+St. Lucia Black Finch  SLBF  no  NA
+Cocos Finch  COFI  no  NA
+Lined Seedeater  LISE  no  NA
+Thick-billed Seed-Finch  TBSF  no  NA
+Large-billed Seed-Finch  LBSF  no  NA
+Nicaraguan Seed-Finch  NISF  no  NA
+Variable Seedeater  VASE  no  NA
+Slate-colored Seedeater  SCSE  no  NA
+White-collared Seedeater  WCSE  gr sm  NA
+Yellow-bellied Seedeater  YBSE  no  NA
+Ruddy-breasted Seedeater  RBSE  no  NA
+Wedge-tailed Grass-Finch  WTGF  no  NA
+Black-headed Saltator  BHSA  no  NA
+Buff-throated Saltator  BTSA  no  NA
+Slate-colored Grosbeak  SCOG  no  NA
+Lesser Antillean Saltator  LASA  no  NA
+Grayish Saltator  GRAS  no  NA
+Streaked Saltator  SSAL  no  NA
+Puerto Rican Tanager  PRTA  no  NA
+Black-crowned Palm-Tanager  BPLT  no  NA
+Gray-crowned Palm-Tanager  GCPT  no  NA
+Western Chat-Tanager  WECT  no  NA
+Eastern Chat-Tanager  EACT  no  NA
+Rosy Thrush-Tanager  ROTT  no  NA
+Dusky-faced Tanager  DFTA  no  NA
+Western Spindalis  WESP  fo  NA
+Jamaican Spindalis  JAMS  no  NA
+Hispaniolan Spindalis  HISP  no  NA
+Puerto Rican Spindalis  PRSP  no  NA
+Yellow-thighed Finch  YTFI  no  NA
+Yellow-green Finch  YGFI  no  NA
+Large-footed Finch  LFFI  no  NA
+Orange-billed Sparrow  OBSP  no  NA
+Sooty-faced Finch  SFFI  no  NA
+Chestnut-capped Brush-Finch  CCBF  no  NA
+Green-striped Brush-Finch  GSBF  no  NA
+Costa Rican Brush-Finch  CRBF  no  NA
+Black-headed Brush-Finch  BHBF  no  NA
+Olive Sparrow  OLSP  fo  SW
+Green-backed Sparrow  GBSP  no  NA
+Black-striped Sparrow  BSTS  no  NA
+White-naped Brush-Finch  WNBF  no  NA
+Rufous-capped Brush-Finch  RCBF  no  NA
+Collared Towhee  COTO  no  NA
+Green-tailed Towhee  GTTO  mo  NW SW
+Spotted Towhee  SPTO  fo ur  NW SW
+Eastern Towhee  EATO  fo  NE SE
+Rusty Sparrow  RUSP  no  NA
+Rufous-crowned Sparrow  RCSP  fo gr  SW
+Oaxaca Sparrow  OASP  no  NA
+White-eared Ground-Sparrow  WEGS  no  NA
+Prevost's Ground-Sparrow  PRGS  no  NA
+Rusty-crowned Ground-Sparrow  RCGS  no  NA
+Canyon Towhee  CANT  fo mo  SW
+White-throated Towhee  WTTO  no  NA
+California Towhee  CALT  fo ur  SW
+Abert's Towhee  ABTO  de fo ur  SW
+Cinnamon-tailed Sparrow  CTSP  no  NA
+Rufous-winged Sparrow  RWSP  de gr  SW
+Stripe-headed Sparrow  SHSP  no  NA
+Black-chested Sparrow  BCHS  no  NA
+Bridled Sparrow  BRIS  no  NA
+Botteri's Sparrow  BOSP  gr  SW
+Cassin's Sparrow  CASP  de gr  SW
+Bachman's Sparrow  BACS  fo gr  SE
+Striped Sparrow  SSPA  no  NA
+Zapata Sparrow  ZASP  no  NA
+American Tree Sparrow  ATSP  fo sm  NW NE
+Chipping Sparrow  CHSP  fo gr ur  NW NE SW SE
+Clay-colored Sparrow  CCSP  gr  NW NE SW SE
+Brewer's Sparrow  BRSP  gr mo  NW SW
+Field Sparrow  FISP  gr  NE SE
+Worthen's Sparrow  WOSP  no  NA
+Black-chinned Sparrow  BCSP  co fo mo  SW
+Vesper Sparrow  VESP  gr ur  NW NE SW SE
+Lark Sparrow  LASP  gr  NW SW
+Five-striped Sparrow  FSSP  gr mo  NA
+Black-throated Sparrow  BTSP  de  SW
+Sagebrush Sparrow  SABS  de gr  NW SW
+Bell's Sparrow  BESP  de gr  SW
+Lark Bunting  LARB  gr  NW SW
+Savannah Sparrow  SAVS  gr sm  NW NE SW SE
+Grasshopper Sparrow  GRSP  gr  NW NE SW SE
+Baird's Sparrow  BAIS  gr  NW SW
+Henslow's Sparrow  HESP  gr  NE SE
+Le Conte's Sparrow  LCSP  gr  NE SE
+Nelson's Sparrow  NESP  sm  NE SE
+Saltmarsh Sparrow  SALS  co sm  NE SE
+Seaside Sparrow  SESP  co sm  NE SE
+Sierra Madre Sparrow  SMSP  no  NA
+Fox Sparrow  FOSP  fo  NW NE SW SE
+Song Sparrow  SOSP  fo gr sm ur  NW NE SW SE
+Lincoln's Sparrow  LISP  fo gr  NW NE SW SE
+Swamp Sparrow  SWSP  fo gr sm  NW NE SW SE
+Rufous-collared Sparrow  RCOS  no  NA
+White-throated Sparrow  WTSP  fo ur  NW NE SW SE
+Harris's Sparrow  HASP  fo gr  NW NE SW
+White-crowned Sparrow  WCSP  fo gr ur  NW NE SW SE
+Golden-crowned Sparrow  GCSP  co fo gr mo  NW SW
+Volcano Junco  VOJU  no  NA
+Dark-eyed Junco  DEJU  fo gr ur  NW NE SW SE
+Guadalupe Junco  GUJU  no  NA
+Yellow-eyed Junco  YEJU  fo mo  SW
+Common Chlorospingus  COCL  no  NA
+Tacarcuna Chlorospingus  TACH  no  NA
+Pirre Chlorospingus  PICH  no  NA
+Sooty-capped Chlorospingus  SCCH  no  NA
+Yellow-throated Chlorospingus  YTCH  no  NA
+Ashy-throated Chlorospingus  ATCH  no  NA
+Pine Bunting  PIBU  no  NA
+Yellow-browed Bunting  YBWB  no  NA
+Little Bunting  LIBU  fo gr mo  NA
+Rustic Bunting  RUBU  fo  NA
+Yellow-throated Bunting  YTBU  no  NA
+Yellow-breasted Bunting  YBSB  fo gr  NA
+Gray Bunting  GRBU  fo gr  NA
+Pallas's Bunting  PALB  gr fw sm  NA
+Reed Bunting  REBU  co fo gr mo  NA
+Rose-throated Tanager  RTTA  no  NA
+Hepatic Tanager  HETA  fo  SW
+Summer Tanager  SUTA  fo ur  NE SW SE
+Scarlet Tanager  SCTA  fo ur  NE SE
+Western Tanager  WETA  fo  NW SW
+Flame-colored Tanager  FCTA  fo mo  NA
+White-winged Tanager  WWTA  no  NA
+Red-headed Tanager  RHTA  no  NA
+Red-crowned Ant-Tanager  RCAT  no  NA
+Red-throated Ant-Tanager  RTAT  no  NA
+Black-cheeked Ant-Tanager  BCAT  no  NA
+Carmiol's Tanager  CATA  no  NA
+Lemon-spectacled Tanager  LSTA  no  NA
+Black-faced Grosbeak  BFAG  no  NA
+Yellow-green Grosbeak  YGGR  no  NA
+Crimson-collared Grosbeak  CCGR  fo gr  NA
+Northern Cardinal  NOCA  gr ur  NE SW SE
+Pyrrhuloxia  PYRR  de  SW
+Yellow Grosbeak  YEGR  fo gr  NA
+Black-thighed Grosbeak  BTGG  no  NA
+Rose-breasted Grosbeak  RBGR  fo gr  NW NE SW SE
+Black-headed Grosbeak  BHGR  fo fw  NW SW
+Red-breasted Chat  RBRC  no  NA
+Gray-throated Chat  GTCH  no  NA
+Blue Seedeater  BLSE  no  NA
+Blue-black Grosbeak  BGRO  no  NA
+Blue Bunting  BLBU  de fo mo  NA
+Blue Grosbeak  BLGR  fo gr  NE SW SE
+Lazuli Bunting  LAZB  fo mo  NW SW
+Indigo Bunting  INBU  fo gr  NE SE
+Rose-bellied Bunting  RBBU  no  NA
+Orange-breasted Bunting  OBBU  no  NA
+Varied Bunting  VABU  de fo mo  SW
+Painted Bunting  PABU  fo  SW SE
+Dickcissel  DICK  gr  NE SE
+Bobolink  BOBO  gr sm  NW NE SE
+Red-winged Blackbird  RWBL  gr sm ur  NW NE SW SE
+Red-shouldered Blackbird  RSBL  no  NA
+Tricolored Blackbird  TRBL  co gr  NW SW
+Tawny-shouldered Blackbird  TSBL  no  NA
+Yellow-shouldered Blackbird  YSBL  no  NA
+Jamaican Blackbird  JABL  no  NA
+Yellow-hooded Blackbird  YHOB  no  NA
+Red-breasted Blackbird  RBBL  no  NA
+Eastern Meadowlark  EAME  gr ur  NE SE
+Western Meadowlark  WEME  gr  NE SW SE
+Yellow-headed Blackbird  YHBL  gr sm ur  NW SW
+Melodious Blackbird  MEBL  no  NA
+Cuban Blackbird  CUBL  no  NA
+Rusty Blackbird  RUBL  co gr ur  NE SE
+Brewer's Blackbird  BRBL  gr ur  NW NE SW SE
+Common Grackle  COGR  co gr ur  NW NE SW SE
+Boat-tailed Grackle  BTGR  gr fw sm  SE
+Great-tailed Grackle  GTGR  gr sm ur  NW SW
+Slender-billed Grackle  SBGR  no  NA
+Nicaraguan Grackle  NIGR  no  NA
+Greater Antillean Grackle  GAGR  no  NA
+Carib Grackle  CAGR  no  NA
+Shiny Cowbird  SHCO  gr fw ur  SE
+Bronzed Cowbird  BROC  gr mo ur  SW SE
+Brown-headed Cowbird  BHCO  fo gr ur  NW NE SW SE
+Giant Cowbird  GICO  no  NA
+Bahama Oriole  BAHO  no  NA
+Cuban Oriole  CUOR  no  NA
+Hispaniolan Oriole  HIOR  no  NA
+Puerto Rican Oriole  PROR  no  NA
+St. Lucia Oriole  SLOR  no  NA
+Montserrat Oriole  MORI  no  NA
+Martinique Oriole  MAOR  no  NA
+Black-vented Oriole  BVOR  fo  NA
+Bar-winged Oriole  BWOR  no  NA
+Black-cowled Oriole  BCOR  no  NA
+Orchard Oriole  OROR  fo gr ur  NE SE
+Hooded Oriole  HOOR  fo ur  SW
+Yellow-backed Oriole  YBOR  no  NA
+Orange-crowned Oriole  OCOR  no  NA
+Yellow-tailed Oriole  YTOR  no  NA
+Venezuelan Troupial  VETR  no  NA
+Streak-backed Oriole  SBAO  fo gr ur  NA
+Bullock's Oriole  BUOR  fo ur  NW SW
+Orange Oriole  ORAO  no  NA
+Jamaican Oriole  JAOR  no  NA
+Spot-breasted Oriole  SBOR  ur  NA
+Altamira Oriole  ALOR  fo  SW
+Audubon's Oriole  AUOR  fo  SW
+Baltimore Oriole  BAOR  fo ur  NE SE
+Black-backed Oriole  BBOR  no  NA
+Scott's Oriole  SCOR  de gr mo  SW
+Yellow-billed Cacique  YBIC  no  NA
+Yellow-winged Cacique  YWCA  no  NA
+Scarlet-rumped Cacique  SRCA  no  NA
+Yellow-rumped Cacique  YRCA  no  NA
+Crested Oropendola  CROR  no  NA
+Chestnut-headed Oropendola  CHOR  no  NA
+Montezuma Oropendola  MORO  no  NA
+Black Oropendola  BLOR  no  NA
+Common Chaffinch  CCHA  fo  NA
+Brambling  BRAM  fo ur  NA
+Jamaican Euphonia  JAEU  no  NA
+Scrub Euphonia  SEUP  no  NA
+Yellow-crowned Euphonia  YCEU  no  NA
+Thick-billed Euphonia  TBEU  no  NA
+Yellow-throated Euphonia  YTEU  no  NA
+Antillean Euphonia  ANEU  no  NA
+Elegant Euphonia  ELEU  no  NA
+Fulvous-vented Euphonia  FVEU  no  NA
+Spot-crowned Euphonia  SPCE  no  NA
+Olive-backed Euphonia  OBAE  no  NA
+White-vented Euphonia  WVEU  no  NA
+Tawny-capped Euphonia  TCEU  no  NA
+Orange-bellied Euphonia  OBEE  no  NA
+Yellow-collared Chlorophonia  YCCH  no  NA
+Blue-crowned Chlorophonia  BCRC  no  NA
+Golden-browed Chlorophonia  GBCH  no  NA
+Asian Rosy-Finch  ASRF  no  NA
+Gray-crowned Rosy-Finch  GCRF  gr mo  NW SW
+Black Rosy-Finch  BLRF  gr mo  NW SW
+Brown-capped Rosy-Finch  BCRF  fo gr mo  SW
+Pine Grosbeak  PIGR  fo  NW NE SW
+Eurasian Bullfinch  EUBU  fo gr ur  NA
+Poo-uli  POUL  no  NA
+Akikiki  AKIK  fo  NA
+Oahu Alauahio  OAAL  no  NA
+Kakawahie  KAKA  no  NA
+Maui Alauahio  MAAL  fo  NA
+Palila  PALI  fo  NA
+Laysan Finch  LAFI  co  NA
+Nihoa Finch  NIFI  no  NA
+Kona Grosbeak  KOGR  no  NA
+Lesser Koa-Finch  LEKF  no  NA
+Greater Koa-Finch  GRKF  no  NA
+Ula-ai-hawane  UAIH  no  NA
+Akohekohe  AKOH  fo  NA
+Laysan Honeycreeper  LAYH  no  NA
+Apapane  APAP  fo  NA
+Iiwi  IIWI  fo  NA
+Hawaii Mamo  HAMA  no  NA
+Black Mamo  BLMA  no  NA
+Ou  OU  no  NA
+Lanai Hookbill  LANH  no  NA
+Maui Parrotbill  MAPA  fo  NA
+Kauai Nukupuu  KANU  no  NA
+Oahu Nukupuu  OANU  no  NA
+Maui Nukupuu  MANU  no  NA
+Akiapolaau  AKIA  fo  NA
+Lesser Akialoa  LEAK  no  NA
+Kauai Akialoa  KAAK  no  NA
+Oahu Akialoa  OAKI  no  NA
+Maui-nui Akialoa  MNAK  no  NA
+Anianiau  ANIA  fo  NA
+Hawaii Amakihi  HAAM  fo  NA
+Oahu Amakihi  OAAM  fo  NA
+Kauai Amakihi  KAAM  fo  NA
+Greater Amakihi  GRAM  no  NA
+Hawaii Creeper  HCRE  fo  NA
+Akekee  AKEK  fo  NA
+Oahu Akepa  OAKE  no  NA
+Maui Akepa  MAAK  no  NA
+Hawaii Akepa  AKEP  no  NA
+Common Rosefinch  CORO  fo gr mo ur  NA
+House Finch  HOFI  co de ur  NW NE SW SE
+Purple Finch  PUFI  fo ur  NW NE SW SE
+Cassin's Finch  CAFI  fo  NW SW
+Red Crossbill  RECR  fo  NW NE SW
+Hispaniolan Crossbill  HICR  no  NA
+White-winged Crossbill  WWCR  fo  NW NE
+Common Redpoll  CORE  fo gr  NW NE
+Hoary Redpoll  HORE  fo gr  NW NE
+Eurasian Siskin  EUSI  no  NA
+Pine Siskin  PISI  fo  NW NE SW SE
+Black-capped Siskin  BCSI  no  NA
+Black-headed Siskin  BHSI  no  NA
+Yellow-bellied Siskin  YBSI  no  NA
+Red Siskin  RESI  no  NA
+Antillean Siskin  ANSI  no  NA
+Lesser Goldfinch  LEGO  fo gr ur  NW SW
+Lawrence's Goldfinch  LAGO  fo gr  SW
+American Goldfinch  AMGO  gr  NW NE SW SE
+European Goldfinch  EUGO  no  NA
+Oriental Greenfinch  ORGR  fo gr ur  NA
+Yellow-fronted Canary  YFCA  fo gr  NA
+Island Canary  ISCA  no  NA
+Hooded Grosbeak  HOOG  no  NA
+Evening Grosbeak  EVGR  fo ur  NW NE SW
+Hawfinch  HAWF  fo  NA
+House Sparrow  HOSP  gr ur  NW NE SW SE
+Eurasian Tree Sparrow  ETSP  fo gr ur  NE
+Village Weaver  VIWE  no  NA
+Orange Bishop  ORBI  gr  NA
+Yellow-crowned Bishop  YCBI  no  NA
+Red-cheeked Cordonbleu  RCCO  gr  NA
+Lavender Waxbill  LAVW  gr ur  NA
+Orange-cheeked Waxbill  OCHW  gr  NA
+Black-rumped Waxbill  BRUW  gr  NA
+Common Waxbill  COMW  gr  NA
+Red Avadavat  REAV  gr sm  NA
+Bronze Mannikin  BRMA  no  NA
+Indian Silverbill  INSI  no  NA
+African Silverbill  AFSI  gr  NA
+Java Sparrow  JASP  gr ur  NA
+Scaly-breasted Munia  SBMU  gr  SW SE
+Tricolored Munia  TRMU  no  NA
+Chestnut Munia  CHMU  gr  NA
+Pin-tailed Whydah  PTWH  no  NA
+Unidentified Bird  UNBI  no  NA

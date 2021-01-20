@@ -1,0 +1,20 @@
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
+
+# exclude all photos
+app/static/photos/*
+
+# but keep the instruction on how to add photos
+!app/static/photos/PHOTO_README

@@ -1,0 +1,3 @@
+to modify app.db:
+    make the appropriate changes to /app/models.py
+    through SSH/PuTTY run venv/bin/migrate.py

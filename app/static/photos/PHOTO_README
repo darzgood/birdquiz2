@@ -1,0 +1,12 @@
+All photos for the quiz should have their 4-letter alpha code included in the
+filename and should be placed in a folder named for the photographer
+
+e.g.
+/app/static/photos
+├── Darrell_Good/
+│   ├── WEGU001.jpg
+│   ├── BOBO001.png
+│   ├── INBU_withnest.jpg
+├── John_Smith/
+│   ├── YEWA.jpg
+│   ├── MAWA.jpeg

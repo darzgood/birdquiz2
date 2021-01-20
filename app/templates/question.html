@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+	<style>
+	</style>
+	<h1 id="welcome">Hello, {{ user.nickname }}!</h1>
+	<div id="img_wrapper">
+	    <figure>
+                <img src = {{ photo }} alt = "random bird" >
+                <figcaption>Photo © {{ photographer }}</figcaption>
+            </figure>
+        </div>
+        <div id="form_background" class="narrow">
+		<form action="" method="post" name="guess">
+			{{form.hidden_tag() }}
+			{% if retry == True %}
+            <p id="message">{{message}}</p>
+            {% else %}
+            <p id="instructions">Please enter your guess at this bird's name.<br></p>
+            {% endif %}
+            
+            <p id="instructions">
+				{{ form.guess(type_="text", size = 40, autofocus = True) }}<br>
+			</p>
+			<p><input type = "submit" value = "Submit"></p>
+		</form>
+	</div>
+{% endblock %}

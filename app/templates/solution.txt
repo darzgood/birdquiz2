@@ -1,0 +1,21 @@
+https://jsfiddle.net/zx22nh6g/
+
+figure{ 
+  max-width: 90vmin;
+  max-height: 70vh;
+  margin: auto;
+  }
+
+figure img{ 
+  display: block;
+  max-width: 100%;
+  max-height: 70vh;
+  margin: 0 auto;}
+
+
+<div>
+  <figure>
+    <img src= "http://placehold.it/800x600">
+    <figcaption>Caption</figcaption>
+  </figure>
+</div>

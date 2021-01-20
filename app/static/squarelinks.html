@@ -1,0 +1,100 @@
+
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title>Bird Regions Map</title>
+	<link rel="stylesheet" href="pretty-checkbox.css"/>
+</head>
+
+<body>
+<script>
+function circleClicked(myCheckbox)
+{
+	if(myCheckbox.checked==true)
+        myCheckbox.checked=false
+    else
+        myCheckbox.checked=true
+
+}
+</script>
+	<table style="font-size: 18;"><tr><td>
+            <div class="pretty p-svg p-curve p-tada">
+				<input type="checkbox" name="northwest" id="northwest" />
+				<div class="state p-primary">
+					<!-- svg path -->
+					<svg class="svg svg-icon" viewBox="0 0 20 20">
+						<path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+					</svg>
+					<label> Northwest</label>
+				</div>
+			</div></td>
+			
+			<td><div class="pretty p-svg p-curve p-tada">
+				<input type="checkbox" name="midwest" id="midwest" />
+				<div class="state p-warning">
+					<!-- svg path -->
+					<svg class="svg svg-icon" viewBox="0 0 20 20">
+						<path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+					</svg>
+					<label>Great Plains</label>
+				</div>
+			</div></td>
+			<td><div class="pretty p-svg p-curve p-tada">
+				<input type="checkbox" name="northeast" id="northeast" />
+				<div class="state p-success">
+					<!-- svg path -->
+					<svg class="svg svg-icon" viewBox="0 0 20 20">
+						<path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+					</svg>
+					<label>Northeast</label>
+				</div>
+			</div></td>
+			
+			</tr><tr>
+			
+			<td><div class="pretty p-svg p-curve p-tada">
+				<input type="checkbox" name="southwest" id="southwest" />
+				<div class="state p-danger">
+					<!-- svg path -->
+					<svg class="svg svg-icon" viewBox="0 0 20 20">
+						<path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+					</svg>
+					<label>Southwest</label>
+				</div>
+			</div></td>
+			<td><div class="pretty p-svg p-curve p-tada">
+				<input type="checkbox" name="southeast" id="southeast" />
+				<div class="state p-info">
+					<!-- svg path -->
+					<svg class="svg svg-icon" viewBox="0 0 20 20">
+						<path d="M7.629,14.566c0.125,0.125,0.291,0.188,0.456,0.188c0.164,0,0.329-0.062,0.456-0.188l8.219-8.221c0.252-0.252,0.252-0.659,0-0.911c-0.252-0.252-0.659-0.252-0.911,0l-7.764,7.763L4.152,9.267c-0.252-0.251-0.66-0.251-0.911,0c-0.252,0.252-0.252,0.66,0,0.911L7.629,14.566z" style="stroke: white;fill:white;"></path>
+					</svg>
+					<label>Southeast</label></td>
+				</div>
+			</div></td>
+			
+			</tr>
+    </table>
+	
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4603 2731" >
+		<image width="4603" height="2731" xlink:href="USA text.jpg">
+		</image>
+		<a onclick="circleClicked(northwest)">
+			<rect x="0" y="0" fill="#fff" opacity="0" width="1500" height="1500" />
+		</a>
+		<a onclick="circleClicked(midwest)">
+			<rect x="1500" y="0" fill="#fff" opacity="0" width="1500" height="1500" />
+		</a>
+		<a onclick="circleClicked(northeast)">
+			<rect x="3000" y="0" fill="#fff" opacity="0" width="1603" height="1500" />
+		</a>
+		<a onclick="circleClicked(southwest)">
+			<rect x="0" y="1500" fill="#fff" opacity="0" width="2500" height="1231" />
+		</a>
+		<a onclick="circleClicked(southeast)">
+			<rect x="2500" y="1500" fill="#fff" opacity="0" width="2103" height="1231" />
+		</a>
+	</svg>
+
+</body>
+</html>

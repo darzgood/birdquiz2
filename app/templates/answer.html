@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+    <h1 id="welcome">Hello, {{ user.nickname }}!</h1>
+    <div id="img_wrapper">
+        <figure>
+        <img src = {{ photo }} alt = "random bird" >
+            <figcaption>Photo © {{photographer}}</figcaption>  
+        </figure>
+    </div>
+    <div id="form_background" class="narrow">
+        
+        <form action="" method="post" name="guess">
+            {{form.hidden_tag() }}
+            <p id="message">{{message}}</p>
+            <p><input type = "submit" value = "Next Question" autofocus></p>
+            <p id="learn">Learn more about <a href="https://www.allaboutbirds.org/guide/{{birdname.replace(" ", "_").replace("'","")}}" target = "_blank">{{birdname}}</a></p>
+	</div>
+        </form>
+        
+{% endblock %}

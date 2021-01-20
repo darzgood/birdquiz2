@@ -1,0 +1,6 @@
+Hello, my name is Darrell, and I am a high-school birdwatcher and computer programmer from West Virginia. I started this a project in the summer of 2016 both as a way to learn python (the computer language) and to sharpen my bird ID skills. Initially I only focused on building a desktop version, but as my programming skills progressed, I decided to move to a web based quiz. 
+Currently, most of the photos are my own, though I hope to incorporate photos from other photographers in the future. I also plan to add a multiple choice option to the quiz and perhaps audio recordings for some of the species. 
+On the more technical side, I plan to replace the incredibly slow CGI server with a newer, faster FCGI or WSGI server. The website was built full-stack using python and the micro framework Flask. It is hosted on a shared-host webserver, which made development difficult as I did not have access to the error logs. 
+    
+    
+    
