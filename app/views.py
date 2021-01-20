@@ -224,7 +224,7 @@ def finish():
 def about():
     try:
     	logging.info("testing")
-    	with open('/static/about.txt', 'r') as aboutFile:
+    	with open('app/static/about.txt', 'r') as aboutFile:
     		about=aboutFile.read()
     	return render_template("about.html", aboutText = about )
 
