@@ -13,8 +13,12 @@ dist/
 build/
 *.egg-info/
 
+*.log
+
 # exclude all photos
 app/static/photos/*
 
 # but keep the instruction on how to add photos
-!app/static/photos/PHOTO_README  
+!app/static/photos/PHOTO_README
+# And keep one for testing
+!app/static/photos/Darrell_Good/FISPdg1.jpg
