@@ -17,4 +17,4 @@ build/
 app/static/photos/*
 
 # but keep the instruction on how to add photos
-!app/static/photos/PHOTO_README
+!app/static/photos/PHOTO_README 
